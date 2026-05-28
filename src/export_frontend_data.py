@@ -30,6 +30,7 @@ from src.logistics_analytics import (
     build_risk_overview,
     build_satisfaction_trend,
 )
+from src.model_explain import build_feature_importance_report
 from src.promo_evaluation import build_promo_evaluation
 from src.recommender import recommend_for_student, recommend_hot_dishes
 from src.sales_predict import build_meal_plan, forecast_next_days, train_sales_model
@@ -90,6 +91,7 @@ def build_dashboard_payload() -> dict:
     peer_recommendation = recommend_for_student(orders, student_features, demo_student, top_n=6)
 
     model_pack = train_sales_model(orders)
+    model_explain = build_feature_importance_report(model_pack)
     future = forecast_next_days(model_pack, days=7)
     meal_plan = build_meal_plan(future)
 
@@ -207,6 +209,7 @@ def build_dashboard_payload() -> dict:
             "rules": json_ready_records(rules, limit=60),
             "comboSuggestions": json_ready_records(combo_suggestions, limit=12),
             "predictionMetrics": model_pack["metrics"],
+            "predictionExplain": model_explain,
             "predictionEval": json_ready_records(model_pack["eval_df"], limit=120),
             "futurePrediction": json_ready_records(future, limit=80),
             "mealPlan": json_ready_records(meal_plan, limit=80),

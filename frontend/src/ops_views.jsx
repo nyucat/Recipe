@@ -28,7 +28,7 @@ function pivotDailySales(rows) {
     if (!byDate.has(item.date)) byDate.set(item.date, { date: item.date });
     byDate.get(item.date)[item.canteen] = Number(item.sales || 0);
   });
-  return [...byDate.values()].sort((a, b) => a.date.localeCompare(b.date));
+  return [...byDate.values()].sort((a, b) => Number(a.date) - Number(b.date));
 }
 
 function pivotSatisfaction(rows) {
@@ -37,7 +37,7 @@ function pivotSatisfaction(rows) {
     if (!byDate.has(item.date)) byDate.set(item.date, { date: item.date });
     byDate.get(item.date)[item.canteen] = Number(item.composite_score || 0);
   });
-  return [...byDate.values()].sort((a, b) => a.date.localeCompare(b.date));
+  return [...byDate.values()].sort((a, b) => Number(a.date) - Number(b.date));
 }
 
 function buildReportViewModel(data) {

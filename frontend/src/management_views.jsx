@@ -339,6 +339,11 @@ export function ManagementRulesView({ data }) {
 }
 
 export function ManagementPredictView({ data, predictionMomentum }) {
+  const explain = data.management.predictionExplain || {};
+  const grouped = explain.groupedImportance || [];
+  const topFeatures = explain.topFeatures || [];
+  const insights = explain.insights || [];
+
   return (
     <>
       <div className="metric-grid">
@@ -347,6 +352,7 @@ export function ManagementPredictView({ data, predictionMomentum }) {
         <MetricCard label="R²" value={formatNumber(data.management.predictionMetrics.R2, 3)} tone="blue" />
         <MetricCard label="预测周期" value="未来 7 天" tone="berry" />
       </div>
+
       <div className="two-col">
         <Panel title="测试集真实值 vs 预测值">
           <ResponsiveContainer width="100%" height={320}>
@@ -373,6 +379,49 @@ export function ManagementPredictView({ data, predictionMomentum }) {
           />
         </Panel>
       </div>
+
+      <Panel title="特征重要性解释" subtitle="解释模型为什么会做出当前预测结果">
+        <div className="two-col">
+          <ResponsiveContainer width="100%" height={320}>
+            <BarChart data={grouped}>
+              <CartesianGrid strokeDasharray="3 3" stroke="#ffffff18" />
+              <XAxis dataKey="feature_group" stroke="#d6d0f4" angle={-12} textAnchor="end" height={70} />
+              <YAxis stroke="#d6d0f4" />
+              <Tooltip formatter={(value) => `${formatNumber(value * 100, 1)}%`} />
+              <Bar dataKey="importance_pct" fill="#38bdf8" radius={[8, 8, 0, 0]} />
+            </BarChart>
+          </ResponsiveContainer>
+          <div className="bullet-stack">
+            {insights.map((item, index) => (
+              <div className="bullet-row" key={`${index}-${item}`}>
+                {item}
+              </div>
+            ))}
+          </div>
+        </div>
+      </Panel>
+
+      <div className="two-col">
+        <Panel title="最重要的具体特征">
+          <MiniTable
+            columns={[
+              { key: "feature_label", label: "特征" },
+              { key: "importance", label: "重要性", render: (value) => `${formatNumber(value * 100, 2)}%` },
+            ]}
+            rows={topFeatures}
+          />
+        </Panel>
+        <Panel title="特征组贡献度">
+          <MiniTable
+            columns={[
+              { key: "feature_group", label: "特征组" },
+              { key: "importance_pct", label: "贡献度", render: (value) => `${formatNumber(value * 100, 1)}%` },
+            ]}
+            rows={grouped}
+          />
+        </Panel>
+      </div>
+
       <Panel title="销量变化最快的菜品">
         <MiniTable
           columns={[

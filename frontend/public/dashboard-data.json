@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T20:21:36.710343",
+    "generated_at": "2026-05-28T20:29:29.708087",
     "student_ids": [
       "S0001",
       "S0002",
@@ -2314,6 +2314,98 @@
       "MAE": 1.08891143409444,
       "RMSE": 1.381537874296161,
       "R2": -0.003231325829534004
+    },
+    "predictionExplain": {
+      "topFeatures": [
+        {
+          "feature": "rolling_mean_7",
+          "feature_label": "过去 7 天平均销量",
+          "importance": 0.22501180578448893
+        },
+        {
+          "feature": "lag_7",
+          "feature_label": "前 7 天销量",
+          "importance": 0.11828321510241181
+        },
+        {
+          "feature": "lag_1",
+          "feature_label": "前 1 天销量",
+          "importance": 0.11004845892840619
+        },
+        {
+          "feature": "canteen_一食堂",
+          "feature_label": "食堂：一食堂",
+          "importance": 0.04299052596424889
+        },
+        {
+          "feature": "dish_name_热干面",
+          "feature_label": "菜品：name_热干面",
+          "importance": 0.04128510882379852
+        },
+        {
+          "feature": "weekday_2",
+          "feature_label": "星期 2",
+          "importance": 0.03353495485757236
+        },
+        {
+          "feature": "canteen_三食堂",
+          "feature_label": "食堂：三食堂",
+          "importance": 0.028535089790579782
+        },
+        {
+          "feature": "window_夜宵窗口",
+          "feature_label": "窗口：夜宵窗口",
+          "importance": 0.02436318685779998
+        },
+        {
+          "feature": "weekday_3",
+          "feature_label": "星期 3",
+          "importance": 0.024332172614323216
+        },
+        {
+          "feature": "weekday_1",
+          "feature_label": "星期 1",
+          "importance": 0.023519233494499494
+        },
+        {
+          "feature": "is_weekend",
+          "feature_label": "是否周末",
+          "importance": 0.022726745132647615
+        },
+        {
+          "feature": "weekday_0",
+          "feature_label": "星期 0",
+          "importance": 0.021161838354630456
+        }
+      ],
+      "groupedImportance": [
+        {
+          "feature_group": "历史销量特征",
+          "importance": 0.4533434798153069,
+          "importance_pct": 0.4533434798153069
+        },
+        {
+          "feature_group": "菜品特征",
+          "importance": 0.20055283866970103,
+          "importance_pct": 0.20055283866970103
+        },
+        {
+          "feature_group": "时间特征",
+          "importance": 0.1823860788727404,
+          "importance_pct": 0.1823860788727404
+        },
+        {
+          "feature_group": "食堂窗口特征",
+          "importance": 0.16371760264225166,
+          "importance_pct": 0.16371760264225166
+        }
+      ],
+      "insights": [
+        "影响预测结果最大的特征组是“历史销量特征”，贡献度约为 45%。",
+        "单个最重要的特征是“过去 7 天平均销量”，说明模型高度依赖近期历史销量和具体菜品行为。",
+        "时间特征占比不低，说明工作日/周末与星期差异会显著影响销量。",
+        "食堂与窗口差异具有明显影响，说明不同供应场景存在稳定消费偏好。"
+      ]
     },
     "predictionEval": [
       {
