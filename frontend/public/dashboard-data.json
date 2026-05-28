@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T10:17:55.056521",
+    "generated_at": "2026-05-28T20:21:36.710343",
     "student_ids": [
       "S0001",
       "S0002",
@@ -238,127 +238,90 @@
   "student": {
     "todayRecommendation": [
       {
-        "dish_name": "牛肉面",
-        "canteen": "一食堂",
-        "window": "面食窗口",
-        "category": "主食",
-        "avg_price": 13.9364779874,
-        "avg_rating": 4.0660377358,
-        "sales_qty": 175,
-        "period_ratio": 0.5786163522,
-        "taste": "咸",
-        "goal_tags": [
-          "高蛋白",
-          "吃饱"
-        ],
-        "heat_level": "中",
-        "protein_level": "高",
-        "fat_level": "中",
-        "healthy_tag": "均衡",
-        "score": 0.8575584545,
-        "reason": "评分 4.1；均价 13.9 元；午餐时段适配度较高；符合你的历史偏好；符合“吃饱”目标"
-      },
-      {
-        "dish_name": "牛肉面",
-        "canteen": "二食堂",
-        "window": "面食窗口",
-        "category": "主食",
-        "avg_price": 13.9943548387,
-        "avg_rating": 4.0822580645,
-        "sales_qty": 134,
-        "period_ratio": 0.5806451613,
-        "taste": "咸",
-        "goal_tags": [
-          "高蛋白",
-          "吃饱"
-        ],
-        "heat_level": "中",
-        "protein_level": "高",
-        "fat_level": "中",
-        "healthy_tag": "均衡",
-        "score": 0.8194393425,
-        "reason": "评分 4.1；均价 14.0 元；午餐时段适配度较高；符合你的历史偏好；符合“吃饱”目标"
-      },
-      {
-        "dish_name": "牛肉面",
-        "canteen": "三食堂",
-        "window": "面食窗口",
-        "category": "主食",
-        "avg_price": 13.9894117647,
-        "avg_rating": 4.1223529412,
-        "sales_qty": 94,
-        "period_ratio": 0.5882352941,
-        "taste": "咸",
-        "goal_tags": [
-          "高蛋白",
-          "吃饱"
-        ],
-        "heat_level": "中",
-        "protein_level": "高",
-        "fat_level": "中",
-        "healthy_tag": "均衡",
-        "score": 0.7843050943,
-        "reason": "评分 4.1；均价 14.0 元；午餐时段适配度较高；符合你的历史偏好；符合“吃饱”目标"
+        "dish_name": "黄焖鸡米饭",
+        "sales_qty": 212,
+        "avg_rating": 4.0802083333,
+        "order_count": 192,
+        "reason": "与你同消费群体同学偏好相似"
       },
       {
         "dish_name": "红烧肉",
-        "canteen": "一食堂",
-        "window": "快餐窗口",
-        "category": "热菜",
-        "avg_price": 14.0381818182,
-        "avg_rating": 4.0496969697,
-        "sales_qty": 180,
-        "period_ratio": 0.5939393939,
-        "taste": "咸",
-        "goal_tags": [
-          "吃饱"
-        ],
-        "heat_level": "高",
-        "protein_level": "中",
-        "fat_level": "高",
-        "healthy_tag": "重口",
-        "score": 0.7138245614,
-        "reason": "评分 4.0；均价 14.0 元；午餐时段适配度较高；符合“吃饱”目标"
+        "sales_qty": 200,
+        "avg_rating": 4.0824175824,
+        "order_count": 182,
+        "reason": "与你同消费群体同学偏好相似"
       },
       {
-        "dish_name": "红烧肉",
-        "canteen": "二食堂",
-        "window": "快餐窗口",
-        "category": "热菜",
-        "avg_price": 13.9641509434,
-        "avg_rating": 4.1273584906,
-        "sales_qty": 116,
-        "period_ratio": 0.6509433962,
-        "taste": "咸",
-        "goal_tags": [
-          "吃饱"
-        ],
-        "heat_level": "高",
-        "protein_level": "中",
-        "fat_level": "高",
-        "healthy_tag": "重口",
-        "score": 0.6650142187,
-        "reason": "评分 4.1；均价 14.0 元；午餐时段适配度较高；符合“吃饱”目标"
+        "dish_name": "牛肉面",
+        "sales_qty": 181,
+        "avg_rating": 4.0748466258,
+        "order_count": 163,
+        "reason": "与你同消费群体同学偏好相似"
+      },
+      {
+        "dish_name": "可乐",
+        "sales_qty": 161,
+        "avg_rating": 3.9291666667,
+        "order_count": 144,
+        "reason": "与你同消费群体同学偏好相似"
+      },
+      {
+        "dish_name": "紫菜蛋花汤",
+        "sales_qty": 138,
+        "avg_rating": 3.9725806452,
+        "order_count": 124,
+        "reason": "与你同消费群体同学偏好相似"
       },
       {
         "dish_name": "炒面",
-        "canteen": "一食堂",
-        "window": "夜宵窗口",
-        "category": "主食",
-        "avg_price": 12.5674418605,
-        "avg_rating": 3.976744186,
-        "sales_qty": 50,
-        "period_ratio": 0.0,
-        "taste": "咸",
-        "goal_tags": [
-          "吃饱"
-        ],
-        "heat_level": "中",
-        "protein_level": "中",
-        "fat_level": "中",
-        "healthy_tag": "均衡",
-        "score": 0.6466840993,
-        "reason": "评分 4.0；均价 12.6 元；午餐时段适配度较高；符合你的历史偏好；符合“吃饱”目标"
+        "sales_qty": 46,
+        "avg_rating": 4.0609756098,
+        "order_count": 41,
+        "reason": "与你同消费群体同学偏好相似"
+      }
+    ],
+    "peerRecommendation": [
+      {
+        "dish_name": "黄焖鸡米饭",
+        "sales_qty": 212,
+        "avg_rating": 4.0802083333,
+        "order_count": 192,
+        "reason": "与你同消费群体同学偏好相似"
+      },
+      {
+        "dish_name": "红烧肉",
+        "sales_qty": 200,
+        "avg_rating": 4.0824175824,
+        "order_count": 182,
+        "reason": "与你同消费群体同学偏好相似"
+      },
+      {
+        "dish_name": "牛肉面",
+        "sales_qty": 181,
+        "avg_rating": 4.0748466258,
+        "order_count": 163,
+        "reason": "与你同消费群体同学偏好相似"
+      },
+      {
+        "dish_name": "可乐",
+        "sales_qty": 161,
+        "avg_rating": 3.9291666667,
+        "order_count": 144,
+        "reason": "与你同消费群体同学偏好相似"
+      },
+      {
+        "dish_name": "紫菜蛋花汤",
+        "sales_qty": 138,
+        "avg_rating": 3.9725806452,
+        "order_count": 124,
+        "reason": "与你同消费群体同学偏好相似"
+      },
+      {
+        "dish_name": "炒面",
+        "sales_qty": 46,
+        "avg_rating": 4.0609756098,
+        "order_count": 41,
+        "reason": "与你同消费群体同学偏好相似"
       }
     ],
     "budgetReport": {
@@ -381,18 +344,7 @@
       {
         "canteen": "一食堂",
         "weekday": 3,
-        "slot_time": "10:15:00",
-        "hist_mean": 1.4,
-        "hist_std": 0.5477225575,
-        "pred_order": 2,
-        "ratio": 1.4285714286,
-        "level": "高",
-        "queue_time": "12-18 分钟"
-      },
-      {
-        "canteen": "三食堂",
-        "weekday": 3,
-        "slot_time": "10:15:00",
+        "slot_time": "20:15:00",
         "hist_mean": 1.0,
         "hist_std": 0.0,
         "pred_order": 1,
@@ -401,9 +353,9 @@
         "queue_time": "6-10 分钟"
       },
       {
-        "canteen": "二食堂",
+        "canteen": "三食堂",
         "weekday": 3,
-        "slot_time": "10:15:00",
+        "slot_time": "20:15:00",
         "hist_mean": 1.0,
         "hist_std": 0.0,
         "pred_order": 1,
@@ -415,7 +367,26 @@
     "preferences": [],
     "feedback": [],
     "votes": [],
-    "announcements": []
+    "announcements": [
+      {
+        "title": "一食堂新菜试营业",
+        "content": "番茄牛腩饭本周上线，欢迎体验并反馈口味。",
+        "type": "上新",
+        "canteen": "一食堂"
+      },
+      {
+        "title": "二食堂晚餐优惠",
+        "content": "牛肉面晚餐时段立减 2 元，适合避峰快速取餐。",
+        "type": "活动",
+        "canteen": "二食堂"
+      },
+      {
+        "title": "三食堂窗口调整",
+        "content": "轻食窗口周五中午暂停营业，请留意公告安排。",
+        "type": "通知",
+        "canteen": "三食堂"
+      }
+    ]
   },
   "management": {
     "dailySales": [
@@ -1192,6 +1163,170 @@
         "advice": "销量下降明显，可做限时折扣或套餐。"
       }
     ],
+    "lifecycle": [
+      {
+        "dish_name": "豆浆",
+        "recent_qty": 39,
+        "avg_rating": 4.0572619048,
+        "prev_qty": 30,
+        "growth": 0.3,
+        "stage": "成长期",
+        "advice": "建议增加供应，重点保障高峰时段备餐。"
+      },
+      {
+        "dish_name": "紫菜蛋花汤",
+        "recent_qty": 32,
+        "avg_rating": 3.806462585,
+        "prev_qty": 23,
+        "growth": 0.3913043478,
+        "stage": "成长期",
+        "advice": "建议增加供应，重点保障高峰时段备餐。"
+      },
+      {
+        "dish_name": "炒饭",
+        "recent_qty": 10,
+        "avg_rating": 4.2666666667,
+        "prev_qty": 5,
+        "growth": 1.0,
+        "stage": "成长期",
+        "advice": "建议增加供应，重点保障高峰时段备餐。"
+      },
+      {
+        "dish_name": "热干面",
+        "recent_qty": 65,
+        "avg_rating": 4.0866187384,
+        "prev_qty": 60,
+        "growth": 0.0833333333,
+        "stage": "稳定期",
+        "advice": "建议保持供应，关注评分和口味波动。"
+      },
+      {
+        "dish_name": "红烧肉",
+        "recent_qty": 43,
+        "avg_rating": 4.1849206349,
+        "prev_qty": 36,
+        "growth": 0.1944444444,
+        "stage": "稳定期",
+        "advice": "建议保持供应，关注评分和口味波动。"
+      },
+      {
+        "dish_name": "黄焖鸡米饭",
+        "recent_qty": 41,
+        "avg_rating": 4.0522789116,
+        "prev_qty": 41,
+        "growth": 0.0,
+        "stage": "稳定期",
+        "advice": "建议保持供应，关注评分和口味波动。"
+      },
+      {
+        "dish_name": "绿豆汤",
+        "recent_qty": 39,
+        "avg_rating": 3.889703154,
+        "prev_qty": 39,
+        "growth": 0.0,
+        "stage": "稳定期",
+        "advice": "建议保持供应，关注评分和口味波动。"
+      },
+      {
+        "dish_name": "番茄炒蛋",
+        "recent_qty": 38,
+        "avg_rating": 3.9254761905,
+        "prev_qty": 44,
+        "growth": -0.1363636364,
+        "stage": "稳定期",
+        "advice": "建议保持供应，关注评分和口味波动。"
+      },
+      {
+        "dish_name": "麻辣香锅",
+        "recent_qty": 38,
+        "avg_rating": 3.8664285714,
+        "prev_qty": 35,
+        "growth": 0.0857142857,
+        "stage": "稳定期",
+        "advice": "建议保持供应，关注评分和口味波动。"
+      },
+      {
+        "dish_name": "可乐",
+        "recent_qty": 34,
+        "avg_rating": 3.8510034014,
+        "prev_qty": 34,
+        "growth": 0.0,
+        "stage": "稳定期",
+        "advice": "建议保持供应，关注评分和口味波动。"
+      },
+      {
+        "dish_name": "奶茶",
+        "recent_qty": 34,
+        "avg_rating": 4.1800793651,
+        "prev_qty": 36,
+        "growth": -0.0555555556,
+        "stage": "稳定期",
+        "advice": "建议保持供应，关注评分和口味波动。"
+      },
+      {
+        "dish_name": "炸鸡排",
+        "recent_qty": 26,
+        "avg_rating": 4.0252777778,
+        "prev_qty": 25,
+        "growth": 0.04,
+        "stage": "稳定期",
+        "advice": "建议保持供应，关注评分和口味波动。"
+      },
+      {
+        "dish_name": "鸡蛋",
+        "recent_qty": 26,
+        "avg_rating": 4.1841666667,
+        "prev_qty": 32,
+        "growth": -0.1875,
+        "stage": "稳定期",
+        "advice": "建议保持供应，关注评分和口味波动。"
+      },
+      {
+        "dish_name": "水果沙拉",
+        "recent_qty": 23,
+        "avg_rating": 3.744047619,
+        "prev_qty": 21,
+        "growth": 0.0952380952,
+        "stage": "稳定期",
+        "advice": "建议保持供应，关注评分和口味波动。"
+      },
+      {
+        "dish_name": "炒面",
+        "recent_qty": 8,
+        "avg_rating": 4.2333333333,
+        "prev_qty": 7,
+        "growth": 0.1428571429,
+        "stage": "稳定期",
+        "advice": "建议保持供应，关注评分和口味波动。"
+      },
+      {
+        "dish_name": "青椒土豆丝",
+        "recent_qty": 33,
+        "avg_rating": 4.0195238095,
+        "prev_qty": 44,
+        "growth": -0.25,
+        "stage": "衰退期",
+        "advice": "建议促销或微调配方，测试学生接受度。"
+      },
+      {
+        "dish_name": "牛肉面",
+        "recent_qty": 30,
+        "avg_rating": 4.1092857143,
+        "prev_qty": 41,
+        "growth": -0.2682926829,
+        "stage": "衰退期",
+        "advice": "建议促销或微调配方，测试学生接受度。"
+      },
+      {
+        "dish_name": "包子",
+        "recent_qty": 27,
+        "avg_rating": 4.0897959184,
+        "prev_qty": 39,
+        "growth": -0.3076923077,
+        "stage": "衰退期",
+        "advice": "建议促销或微调配方，测试学生接受度。"
+      }
+    ],
     "periodStat": [
       {
         "period": "午餐",
@@ -1863,6 +1998,134 @@
         "orders": 57
       }
     ],
+    "windowPressure": [
+      {
+        "window": "早餐窗口",
+        "period": "早餐",
+        "orders": 858,
+        "sales": 2692.5
+      },
+      {
+        "window": "快餐窗口",
+        "period": "午餐",
+        "orders": 574,
+        "sales": 7623.5
+      },
+      {
+        "window": "快餐窗口",
+        "period": "晚餐",
+        "orders": 406,
+        "sales": 5231.0
+      },
+      {
+        "window": "面食窗口",
+        "period": "午餐",
+        "orders": 400,
+        "sales": 5088.2
+      },
+      {
+        "window": "面食窗口",
+        "period": "早餐",
+        "orders": 362,
+        "sales": 3160.5
+      },
+      {
+        "window": "饮品窗口",
+        "period": "午餐",
+        "orders": 356,
+        "sales": 2986.9
+      },
+      {
+        "window": "汤品窗口",
+        "period": "午餐",
+        "orders": 348,
+        "sales": 1668.6
+      },
+      {
+        "window": "饮品窗口",
+        "period": "晚餐",
+        "orders": 256,
+        "sales": 2086.5
+      },
+      {
+        "window": "汤品窗口",
+        "period": "晚餐",
+        "orders": 229,
+        "sales": 1111.2
+      },
+      {
+        "window": "特色窗口",
+        "period": "午餐",
+        "orders": 220,
+        "sales": 4338.3
+      },
+      {
+        "window": "盖饭窗口",
+        "period": "午餐",
+        "orders": 213,
+        "sales": 3787.8
+      },
+      {
+        "window": "盖饭窗口",
+        "period": "晚餐",
+        "orders": 174,
+        "sales": 3062.8
+      },
+      {
+        "window": "夜宵窗口",
+        "period": "夜宵",
+        "orders": 161,
+        "sales": 2401.3
+      },
+      {
+        "window": "特色窗口",
+        "period": "晚餐",
+        "orders": 155,
+        "sales": 3048.6
+      },
+      {
+        "window": "面食窗口",
+        "period": "晚餐",
+        "orders": 154,
+        "sales": 2350.4
+      },
+      {
+        "window": "小吃窗口",
+        "period": "晚餐",
+        "orders": 149,
+        "sales": 1787.2
+      },
+      {
+        "window": "饮品窗口",
+        "period": "夜宵",
+        "orders": 144,
+        "sales": 1299.8
+      },
+      {
+        "window": "轻食窗口",
+        "period": "午餐",
+        "orders": 138,
+        "sales": 1838.9
+      },
+      {
+        "window": "小吃窗口",
+        "period": "夜宵",
+        "orders": 94,
+        "sales": 1139.8
+      },
+      {
+        "window": "汤品窗口",
+        "period": "夜宵",
+        "orders": 90,
+        "sales": 449.9
+      },
+      {
+        "window": "轻食窗口",
+        "period": "晚餐",
+        "orders": 85,
+        "sales": 1109.5
+      }
+    ],
     "rules": [
       {
         "antecedents_str": "豆浆",
@@ -1944,6 +2207,107 @@
         "lift": 1.7013102833,
         "leverage": 0.0095840625,
         "conviction": 1.1303954082
+      }
+    ],
+    "comboSuggestions": [
+      {
+        "combo_name": "豆浆 + 包子",
+        "dishes": [
+          "豆浆",
+          "包子"
+        ],
+        "estimated_price": 4.5,
+        "confidence": 0.2895,
+        "lift": 2.9093,
+        "reason": "提升度 2.91，适合做套餐联动推荐。"
+      },
+      {
+        "combo_name": "包子 + 豆浆",
+        "dishes": [
+          "包子",
+          "豆浆"
+        ],
+        "estimated_price": 4.5,
+        "confidence": 0.2764,
+        "lift": 2.9093,
+        "reason": "提升度 2.91，适合做套餐联动推荐。"
+      },
+      {
+        "combo_name": "鸡蛋 + 豆浆",
+        "dishes": [
+          "鸡蛋",
+          "豆浆"
+        ],
+        "estimated_price": 3.8,
+        "confidence": 0.2739,
+        "lift": 2.8832,
+        "reason": "提升度 2.88，适合做套餐联动推荐。"
+      },
+      {
+        "combo_name": "豆浆 + 鸡蛋",
+        "dishes": [
+          "豆浆",
+          "鸡蛋"
+        ],
+        "estimated_price": 3.8,
+        "confidence": 0.2789,
+        "lift": 2.8832,
+        "reason": "提升度 2.88，适合做套餐联动推荐。"
+      },
+      {
+        "combo_name": "鸡蛋 + 包子",
+        "dishes": [
+          "鸡蛋",
+          "包子"
+        ],
+        "estimated_price": 4.3,
+        "confidence": 0.2868,
+        "lift": 2.8826,
+        "reason": "提升度 2.88，适合做套餐联动推荐。"
+      },
+      {
+        "combo_name": "包子 + 鸡蛋",
+        "dishes": [
+          "包子",
+          "鸡蛋"
+        ],
+        "estimated_price": 4.3,
+        "confidence": 0.2789,
+        "lift": 2.8826,
+        "reason": "提升度 2.88，适合做套餐联动推荐。"
+      },
+      {
+        "combo_name": "包子 + 热干面",
+        "dishes": [
+          "包子",
+          "热干面"
+        ],
+        "estimated_price": 10.5,
+        "confidence": 0.2714,
+        "lift": 1.9211,
+        "reason": "提升度 1.92，适合做套餐联动推荐。"
+      },
+      {
+        "combo_name": "豆浆 + 热干面",
+        "dishes": [
+          "豆浆",
+          "热干面"
+        ],
+        "estimated_price": 10.0,
+        "confidence": 0.2421,
+        "lift": 1.714,
+        "reason": "提升度 1.71，适合做套餐联动推荐。"
+      },
+      {
+        "combo_name": "鸡蛋 + 热干面",
+        "dishes": [
+          "鸡蛋",
+          "热干面"
+        ],
+        "estimated_price": 9.8,
+        "confidence": 0.2403,
+        "lift": 1.7013,
+        "reason": "提升度 1.70，适合做套餐联动推荐。"
       }
     ],
     "predictionMetrics": {
@@ -4196,7 +4560,514 @@
         "risk": "正常",
         "advice": "保持供应"
       }
-    ]
+    ],
+    "feedbackInsights": {
+      "dishScores": [],
+      "canteenScores": [],
+      "lowComments": []
+    },
+    "commentAnalysis": {
+      "positiveKeywords": [
+        {
+          "keyword": "分量足",
+          "count": 13
+        },
+        {
+          "keyword": "出餐快",
+          "count": 13
+        },
+        {
+          "keyword": "性价比高",
+          "count": 10
+        },
+        {
+          "keyword": "味道稳定",
+          "count": 10
+        },
+        {
+          "keyword": "干净",
+          "count": 7
+        }
+      ],
+      "negativeKeywords": [
+        {
+          "keyword": "太油",
+          "count": 11
+        },
+        {
+          "keyword": "出餐慢",
+          "count": 11
+        },
+        {
+          "keyword": "太咸",
+          "count": 10
+        }
+      ],
+      "themeCounts": [
+        {
+          "theme": "口味问题",
+          "count": 21
+        },
+        {
+          "theme": "出餐效率",
+          "count": 11
+        },
+        {
+          "theme": "正向体验",
+          "count": 53
+        }
+      ],
+      "samplePositive": [
+        {
+          "dish_name": "炒面",
+          "canteen": "二食堂",
+          "comment": "炒面性价比高，下次还会再点。"
+        },
+        {
+          "dish_name": "包子",
+          "canteen": "一食堂",
+          "comment": "包子味道稳定，吃起来很满意。"
+        },
+        {
+          "dish_name": "麻辣香锅",
+          "canteen": "一食堂",
+          "comment": "麻辣香锅味道稳定，吃起来很满意。"
+        },
+        {
+          "dish_name": "红烧肉",
+          "canteen": "二食堂",
+          "comment": "二食堂这道红烧肉很干净，整体体验不错。"
+        },
+        {
+          "dish_name": "牛肉面",
+          "canteen": "三食堂",
+          "comment": "牛肉面分量足，而且出餐快。"
+        },
+        {
+          "dish_name": "奶茶",
+          "canteen": "二食堂",
+          "comment": "奶茶味道稳定，吃起来很满意。"
+        }
+      ],
+      "sampleNegative": [
+        {
+          "dish_name": "水果沙拉",
+          "canteen": "二食堂",
+          "comment": "水果沙拉有点太油，吃完负担比较重。"
+        },
+        {
+          "dish_name": "水果沙拉",
+          "canteen": "一食堂",
+          "comment": "一食堂这道水果沙拉出餐慢，排队时间有点长。"
+        },
+        {
+          "dish_name": "紫菜蛋花汤",
+          "canteen": "二食堂",
+          "comment": "紫菜蛋花汤今天有点太咸，口味需要调整。"
+        },
+        {
+          "dish_name": "水果沙拉",
+          "canteen": "三食堂",
+          "comment": "水果沙拉分量偏少，感觉性价比不高。"
+        },
+        {
+          "dish_name": "可乐",
+          "canteen": "一食堂",
+          "comment": "可乐有点太油，吃完负担比较重。"
+        },
+        {
+          "dish_name": "可乐",
+          "canteen": "三食堂",
+          "comment": "可乐今天有点太咸，口味需要调整。"
+        }
+      ],
+      "dishIssues": [
+        {
+          "dish_name": "水果沙拉",
+          "canteen": "二食堂",
+          "issue_count": 1,
+          "avg_score": 3.79
+        },
+        {
+          "dish_name": "包子",
+          "canteen": "三食堂",
+          "issue_count": 1,
+          "avg_score": 3.8
+        },
+        {
+          "dish_name": "可乐",
+          "canteen": "一食堂",
+          "issue_count": 1,
+          "avg_score": 3.8
+        },
+        {
+          "dish_name": "可乐",
+          "canteen": "三食堂",
+          "issue_count": 1,
+          "avg_score": 3.8
+        },
+        {
+          "dish_name": "可乐",
+          "canteen": "二食堂",
+          "issue_count": 1,
+          "avg_score": 3.8
+        },
+        {
+          "dish_name": "奶茶",
+          "canteen": "一食堂",
+          "issue_count": 1,
+          "avg_score": 3.8
+        },
+        {
+          "dish_name": "水果沙拉",
+          "canteen": "一食堂",
+          "issue_count": 1,
+          "avg_score": 3.8
+        },
+        {
+          "dish_name": "水果沙拉",
+          "canteen": "三食堂",
+          "issue_count": 1,
+          "avg_score": 3.8
+        }
+      ],
+      "commentCount": 80
+    },
+    "promoEvaluation": [
+      {
+        "dish_name": "牛肉面",
+        "promo_type": "建议促销",
+        "before_qty": 4.1,
+        "after_qty": 4.7,
+        "qty_change": 0.1264,
+        "before_sales": 57.84,
+        "after_sales": 64.8,
+        "sales_change": 0.1203,
+        "before_rating": 4.04,
+        "after_rating": 4.3,
+        "rating_change": 0.26,
+        "outcome": "效果一般",
+        "review": "促销后销量变化 13%，整体较平稳，可继续小范围测试。"
+      },
+      {
+        "dish_name": "包子",
+        "promo_type": "建议促销",
+        "before_qty": 4.7,
+        "after_qty": 4.7,
+        "qty_change": -0.0101,
+        "before_sales": 11.56,
+        "after_sales": 11.97,
+        "sales_change": 0.0354,
+        "before_rating": 4.07,
+        "after_rating": 4.11,
+        "rating_change": 0.04,
+        "outcome": "效果一般",
+        "review": "促销后销量变化 -1%，整体较平稳，可继续小范围测试。"
+      },
+      {
+        "dish_name": "青椒土豆丝",
+        "promo_type": "建议促销",
+        "before_qty": 7.1,
+        "after_qty": 3.0,
+        "qty_change": -0.58,
+        "before_sales": 57.44,
+        "after_sales": 23.8,
+        "sales_change": -0.5857,
+        "before_rating": 4.06,
+        "after_rating": 4.01,
+        "rating_change": -0.05,
+        "outcome": "需要复盘",
+        "review": "促销后评分变化 -0.05，或销量提升不足，建议检查折扣力度与菜品口味。"
+      }
+    ],
+    "alertCenter": [
+      {
+        "severity": "高",
+        "category": "备餐风险异常",
+        "entity": "一食堂",
+        "signal": "缺货风险菜品过多",
+        "change": "共有 34 个菜品处于高缺货风险",
+        "advice": "建议立即提高高峰热门菜品安全备餐系数，并优先调配备餐人手。"
+      },
+      {
+        "severity": "高",
+        "category": "拥挤度异常",
+        "entity": "三食堂（早餐）",
+        "signal": "当前高峰压力超出常态",
+        "change": "订单量达到历史均值的 222%",
+        "advice": "建议启动错峰引导、开放备用窗口或临时增加服务人员。"
+      },
+      {
+        "severity": "高",
+        "category": "拥挤度异常",
+        "entity": "二食堂（夜宵）",
+        "signal": "当前高峰压力超出常态",
+        "change": "订单量达到历史均值的 200%",
+        "advice": "建议启动错峰引导、开放备用窗口或临时增加服务人员。"
+      },
+      {
+        "severity": "高",
+        "category": "窗口订单异常",
+        "entity": "一食堂 - 夜宵窗口（夜宵）",
+        "signal": "订单量明显低于常态",
+        "change": "仅为历史均值的 40%",
+        "advice": "建议检查窗口营业状态、菜品供应是否异常，必要时调整窗口导流。"
+      },
+      {
+        "severity": "高",
+        "category": "窗口订单异常",
+        "entity": "一食堂 - 盖饭窗口（午餐）",
+        "signal": "订单量明显低于常态",
+        "change": "仅为历史均值的 54%",
+        "advice": "建议检查窗口营业状态、菜品供应是否异常，必要时调整窗口导流。"
+      },
+      {
+        "severity": "高",
+        "category": "窗口订单异常",
+        "entity": "一食堂 - 面食窗口（早餐）",
+        "signal": "订单量明显低于常态",
+        "change": "仅为历史均值的 38%",
+        "advice": "建议检查窗口营业状态、菜品供应是否异常，必要时调整窗口导流。"
+      },
+      {
+        "severity": "高",
+        "category": "窗口订单异常",
+        "entity": "三食堂 - 特色窗口（晚餐）",
+        "signal": "订单量明显低于常态",
+        "change": "仅为历史均值的 33%",
+        "advice": "建议检查窗口营业状态、菜品供应是否异常，必要时调整窗口导流。"
+      },
+      {
+        "severity": "高",
+        "category": "窗口订单异常",
+        "entity": "三食堂 - 面食窗口（午餐）",
+        "signal": "订单量明显低于常态",
+        "change": "仅为历史均值的 44%",
+        "advice": "建议检查窗口营业状态、菜品供应是否异常，必要时调整窗口导流。"
+      },
+      {
+        "severity": "高",
+        "category": "窗口订单异常",
+        "entity": "二食堂 - 快餐窗口（午餐）",
+        "signal": "订单量明显低于常态",
+        "change": "仅为历史均值的 38%",
+        "advice": "建议检查窗口营业状态、菜品供应是否异常，必要时调整窗口导流。"
+      },
+      {
+        "severity": "中",
+        "category": "备餐风险异常",
+        "entity": "一食堂",
+        "signal": "浪费风险菜品过多",
+        "change": "共有 19 个菜品处于高浪费风险",
+        "advice": "建议减少低需求菜品预制量，并测试限时优惠和套餐出清策略。"
+      },
+      {
+        "severity": "中",
+        "category": "备餐风险异常",
+        "entity": "三食堂",
+        "signal": "浪费风险菜品过多",
+        "change": "共有 17 个菜品处于高浪费风险",
+        "advice": "建议减少低需求菜品预制量，并测试限时优惠和套餐出清策略。"
+      },
+      {
+        "severity": "中",
+        "category": "备餐风险异常",
+        "entity": "二食堂",
+        "signal": "浪费风险菜品过多",
+        "change": "共有 4 个菜品处于高浪费风险",
+        "advice": "建议减少低需求菜品预制量，并测试限时优惠和套餐出清策略。"
+      },
+      {
+        "severity": "中",
+        "category": "窗口订单异常",
+        "entity": "一食堂 - 面食窗口（午餐）",
+        "signal": "订单量异常偏高",
+        "change": "达到历史均值的 206%",
+        "advice": "建议增加高峰人手和备餐，防止排队时间继续拉长。"
+      },
+      {
+        "severity": "中",
+        "category": "窗口订单异常",
+        "entity": "三食堂 - 小吃窗口（晚餐）",
+        "signal": "订单量异常偏高",
+        "change": "达到历史均值的 240%",
+        "advice": "建议增加高峰人手和备餐，防止排队时间继续拉长。"
+      },
+      {
+        "severity": "中",
+        "category": "窗口订单异常",
+        "entity": "三食堂 - 早餐窗口（早餐）",
+        "signal": "订单量异常偏高",
+        "change": "达到历史均值的 286%",
+        "advice": "建议增加高峰人手和备餐，防止排队时间继续拉长。"
+      },
+      {
+        "severity": "中",
+        "category": "窗口订单异常",
+        "entity": "三食堂 - 盖饭窗口（午餐）",
+        "signal": "订单量异常偏高",
+        "change": "达到历史均值的 300%",
+        "advice": "建议增加高峰人手和备餐，防止排队时间继续拉长。"
+      },
+      {
+        "severity": "中",
+        "category": "窗口订单异常",
+        "entity": "三食堂 - 面食窗口（早餐）",
+        "signal": "订单量异常偏高",
+        "change": "达到历史均值的 200%",
+        "advice": "建议增加高峰人手和备餐，防止排队时间继续拉长。"
+      },
+      {
+        "severity": "中",
+        "category": "窗口订单异常",
+        "entity": "三食堂 - 饮品窗口（晚餐）",
+        "signal": "订单量异常偏高",
+        "change": "达到历史均值的 188%",
+        "advice": "建议增加高峰人手和备餐，防止排队时间继续拉长。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "一食堂 - 水果沙拉",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 233%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "一食堂 - 炒饭",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 700%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "一食堂 - 番茄炒蛋",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 27%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "一食堂 - 豆浆",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 233%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "三食堂 - 包子",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 26%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "三食堂 - 水果沙拉",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 47%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "三食堂 - 番茄炒蛋",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 36%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "三食堂 - 紫菜蛋花汤",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 29%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "三食堂 - 红烧肉",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 467%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "三食堂 - 麻辣香锅",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 21%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "二食堂 - 可乐",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 233%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "二食堂 - 炒面",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 700%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "二食堂 - 炒饭",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 233%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "二食堂 - 炸鸡排",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 52%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "二食堂 - 红烧肉",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 36%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "二食堂 - 豆浆",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 267%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "二食堂 - 青椒土豆丝",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 54%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      }
+    ],
+    "alertSummary": {
+      "high": 9,
+      "medium": 26,
+      "low": 0,
+      "total": 35
+    }
   },
   "logistics": {
     "canteenCompare": [
@@ -4220,6 +5091,1358 @@
         "orders": 982,
         "students": 430,
         "rating": 4.023160027
+      }
+    ],
+    "canteenDailySales": [
+      {
+        "date": 1769904000000,
+        "canteen": "一食堂",
+        "sales": 323.9,
+        "orders": 16
+      },
+      {
+        "date": 1769904000000,
+        "canteen": "三食堂",
+        "sales": 240.7,
+        "orders": 16
+      },
+      {
+        "date": 1769904000000,
+        "canteen": "二食堂",
+        "sales": 385.6,
+        "orders": 21
+      },
+      {
+        "date": 1769990400000,
+        "canteen": "一食堂",
+        "sales": 361.4,
+        "orders": 24
+      },
+      {
+        "date": 1769990400000,
+        "canteen": "三食堂",
+        "sales": 158.5,
+        "orders": 12
+      },
+      {
+        "date": 1769990400000,
+        "canteen": "二食堂",
+        "sales": 115.6,
+        "orders": 11
+      },
+      {
+        "date": 1770076800000,
+        "canteen": "一食堂",
+        "sales": 295.6,
+        "orders": 20
+      },
+      {
+        "date": 1770076800000,
+        "canteen": "三食堂",
+        "sales": 228.6,
+        "orders": 15
+      },
+      {
+        "date": 1770076800000,
+        "canteen": "二食堂",
+        "sales": 255.2,
+        "orders": 18
+      },
+      {
+        "date": 1770163200000,
+        "canteen": "一食堂",
+        "sales": 339.0,
+        "orders": 22
+      },
+      {
+        "date": 1770163200000,
+        "canteen": "三食堂",
+        "sales": 109.5,
+        "orders": 13
+      },
+      {
+        "date": 1770163200000,
+        "canteen": "二食堂",
+        "sales": 325.1,
+        "orders": 17
+      },
+      {
+        "date": 1770249600000,
+        "canteen": "一食堂",
+        "sales": 338.0,
+        "orders": 23
+      },
+      {
+        "date": 1770249600000,
+        "canteen": "三食堂",
+        "sales": 165.3,
+        "orders": 8
+      },
+      {
+        "date": 1770249600000,
+        "canteen": "二食堂",
+        "sales": 327.0,
+        "orders": 19
+      },
+      {
+        "date": 1770336000000,
+        "canteen": "一食堂",
+        "sales": 278.4,
+        "orders": 19
+      },
+      {
+        "date": 1770336000000,
+        "canteen": "三食堂",
+        "sales": 187.0,
+        "orders": 13
+      },
+      {
+        "date": 1770336000000,
+        "canteen": "二食堂",
+        "sales": 234.7,
+        "orders": 17
+      },
+      {
+        "date": 1770422400000,
+        "canteen": "一食堂",
+        "sales": 420.0,
+        "orders": 25
+      },
+      {
+        "date": 1770422400000,
+        "canteen": "三食堂",
+        "sales": 214.7,
+        "orders": 17
+      },
+      {
+        "date": 1770422400000,
+        "canteen": "二食堂",
+        "sales": 116.1,
+        "orders": 12
+      },
+      {
+        "date": 1770508800000,
+        "canteen": "一食堂",
+        "sales": 437.4,
+        "orders": 26
+      },
+      {
+        "date": 1770508800000,
+        "canteen": "三食堂",
+        "sales": 158.5,
+        "orders": 9
+      },
+      {
+        "date": 1770508800000,
+        "canteen": "二食堂",
+        "sales": 369.3,
+        "orders": 23
+      },
+      {
+        "date": 1770595200000,
+        "canteen": "一食堂",
+        "sales": 287.4,
+        "orders": 24
+      },
+      {
+        "date": 1770595200000,
+        "canteen": "三食堂",
+        "sales": 148.1,
+        "orders": 11
+      },
+      {
+        "date": 1770595200000,
+        "canteen": "二食堂",
+        "sales": 204.8,
+        "orders": 15
+      },
+      {
+        "date": 1770681600000,
+        "canteen": "一食堂",
+        "sales": 331.6,
+        "orders": 24
+      },
+      {
+        "date": 1770681600000,
+        "canteen": "三食堂",
+        "sales": 170.6,
+        "orders": 11
+      },
+      {
+        "date": 1770681600000,
+        "canteen": "二食堂",
+        "sales": 232.0,
+        "orders": 20
+      },
+      {
+        "date": 1770768000000,
+        "canteen": "一食堂",
+        "sales": 382.6,
+        "orders": 18
+      },
+      {
+        "date": 1770768000000,
+        "canteen": "三食堂",
+        "sales": 180.1,
+        "orders": 12
+      },
+      {
+        "date": 1770768000000,
+        "canteen": "二食堂",
+        "sales": 273.6,
+        "orders": 22
+      },
+      {
+        "date": 1770854400000,
+        "canteen": "一食堂",
+        "sales": 260.0,
+        "orders": 23
+      },
+      {
+        "date": 1770854400000,
+        "canteen": "三食堂",
+        "sales": 156.7,
+        "orders": 14
+      },
+      {
+        "date": 1770854400000,
+        "canteen": "二食堂",
+        "sales": 280.5,
+        "orders": 22
+      },
+      {
+        "date": 1770940800000,
+        "canteen": "一食堂",
+        "sales": 246.7,
+        "orders": 23
+      },
+      {
+        "date": 1770940800000,
+        "canteen": "三食堂",
+        "sales": 217.6,
+        "orders": 11
+      },
+      {
+        "date": 1770940800000,
+        "canteen": "二食堂",
+        "sales": 390.2,
+        "orders": 23
+      },
+      {
+        "date": 1771027200000,
+        "canteen": "一食堂",
+        "sales": 349.5,
+        "orders": 26
+      },
+      {
+        "date": 1771027200000,
+        "canteen": "三食堂",
+        "sales": 280.3,
+        "orders": 14
+      },
+      {
+        "date": 1771027200000,
+        "canteen": "二食堂",
+        "sales": 300.2,
+        "orders": 18
+      },
+      {
+        "date": 1771113600000,
+        "canteen": "一食堂",
+        "sales": 283.1,
+        "orders": 26
+      },
+      {
+        "date": 1771113600000,
+        "canteen": "三食堂",
+        "sales": 155.8,
+        "orders": 10
+      },
+      {
+        "date": 1771113600000,
+        "canteen": "二食堂",
+        "sales": 106.4,
+        "orders": 13
+      },
+      {
+        "date": 1771200000000,
+        "canteen": "一食堂",
+        "sales": 199.0,
+        "orders": 16
+      },
+      {
+        "date": 1771200000000,
+        "canteen": "三食堂",
+        "sales": 142.0,
+        "orders": 12
+      },
+      {
+        "date": 1771200000000,
+        "canteen": "二食堂",
+        "sales": 246.0,
+        "orders": 20
+      },
+      {
+        "date": 1771286400000,
+        "canteen": "一食堂",
+        "sales": 320.2,
+        "orders": 25
+      },
+      {
+        "date": 1771286400000,
+        "canteen": "三食堂",
+        "sales": 222.5,
+        "orders": 19
+      },
+      {
+        "date": 1771286400000,
+        "canteen": "二食堂",
+        "sales": 323.3,
+        "orders": 23
+      },
+      {
+        "date": 1771372800000,
+        "canteen": "一食堂",
+        "sales": 300.6,
+        "orders": 16
+      },
+      {
+        "date": 1771372800000,
+        "canteen": "三食堂",
+        "sales": 168.3,
+        "orders": 12
+      },
+      {
+        "date": 1771372800000,
+        "canteen": "二食堂",
+        "sales": 324.7,
+        "orders": 20
+      },
+      {
+        "date": 1771459200000,
+        "canteen": "一食堂",
+        "sales": 409.4,
+        "orders": 24
+      },
+      {
+        "date": 1771459200000,
+        "canteen": "三食堂",
+        "sales": 159.0,
+        "orders": 14
+      },
+      {
+        "date": 1771459200000,
+        "canteen": "二食堂",
+        "sales": 244.4,
+        "orders": 14
+      },
+      {
+        "date": 1771545600000,
+        "canteen": "一食堂",
+        "sales": 314.9,
+        "orders": 21
+      },
+      {
+        "date": 1771545600000,
+        "canteen": "三食堂",
+        "sales": 237.3,
+        "orders": 18
+      },
+      {
+        "date": 1771545600000,
+        "canteen": "二食堂",
+        "sales": 273.6,
+        "orders": 21
+      },
+      {
+        "date": 1771632000000,
+        "canteen": "一食堂",
+        "sales": 359.3,
+        "orders": 25
+      },
+      {
+        "date": 1771632000000,
+        "canteen": "三食堂",
+        "sales": 186.8,
+        "orders": 13
+      },
+      {
+        "date": 1771632000000,
+        "canteen": "二食堂",
+        "sales": 195.4,
+        "orders": 20
+      },
+      {
+        "date": 1771718400000,
+        "canteen": "一食堂",
+        "sales": 370.1,
+        "orders": 26
+      },
+      {
+        "date": 1771718400000,
+        "canteen": "三食堂",
+        "sales": 85.8,
+        "orders": 8
+      },
+      {
+        "date": 1771718400000,
+        "canteen": "二食堂",
+        "sales": 182.4,
+        "orders": 16
+      },
+      {
+        "date": 1771804800000,
+        "canteen": "一食堂",
+        "sales": 318.0,
+        "orders": 19
+      },
+      {
+        "date": 1771804800000,
+        "canteen": "三食堂",
+        "sales": 326.8,
+        "orders": 19
+      },
+      {
+        "date": 1771804800000,
+        "canteen": "二食堂",
+        "sales": 241.6,
+        "orders": 15
+      },
+      {
+        "date": 1771891200000,
+        "canteen": "一食堂",
+        "sales": 395.5,
+        "orders": 28
+      },
+      {
+        "date": 1771891200000,
+        "canteen": "三食堂",
+        "sales": 171.2,
+        "orders": 15
+      },
+      {
+        "date": 1771891200000,
+        "canteen": "二食堂",
+        "sales": 208.4,
+        "orders": 16
+      },
+      {
+        "date": 1771977600000,
+        "canteen": "一食堂",
+        "sales": 318.1,
+        "orders": 24
+      },
+      {
+        "date": 1771977600000,
+        "canteen": "三食堂",
+        "sales": 129.5,
+        "orders": 11
+      },
+      {
+        "date": 1771977600000,
+        "canteen": "二食堂",
+        "sales": 288.6,
+        "orders": 21
+      },
+      {
+        "date": 1772064000000,
+        "canteen": "一食堂",
+        "sales": 306.7,
+        "orders": 19
+      },
+      {
+        "date": 1772064000000,
+        "canteen": "三食堂",
+        "sales": 260.5,
+        "orders": 14
+      },
+      {
+        "date": 1772064000000,
+        "canteen": "二食堂",
+        "sales": 269.4,
+        "orders": 22
+      },
+      {
+        "date": 1772150400000,
+        "canteen": "一食堂",
+        "sales": 417.0,
+        "orders": 26
+      },
+      {
+        "date": 1772150400000,
+        "canteen": "三食堂",
+        "sales": 259.3,
+        "orders": 17
+      },
+      {
+        "date": 1772150400000,
+        "canteen": "二食堂",
+        "sales": 220.0,
+        "orders": 16
+      },
+      {
+        "date": 1772236800000,
+        "canteen": "一食堂",
+        "sales": 254.2,
+        "orders": 16
+      },
+      {
+        "date": 1772236800000,
+        "canteen": "三食堂",
+        "sales": 155.2,
+        "orders": 13
+      },
+      {
+        "date": 1772236800000,
+        "canteen": "二食堂",
+        "sales": 209.6,
+        "orders": 16
+      },
+      {
+        "date": 1772323200000,
+        "canteen": "一食堂",
+        "sales": 338.1,
+        "orders": 22
+      },
+      {
+        "date": 1772323200000,
+        "canteen": "三食堂",
+        "sales": 198.3,
+        "orders": 12
+      },
+      {
+        "date": 1772323200000,
+        "canteen": "二食堂",
+        "sales": 160.4,
+        "orders": 13
+      },
+      {
+        "date": 1772409600000,
+        "canteen": "一食堂",
+        "sales": 108.1,
+        "orders": 11
+      },
+      {
+        "date": 1772409600000,
+        "canteen": "三食堂",
+        "sales": 200.3,
+        "orders": 10
+      },
+      {
+        "date": 1772409600000,
+        "canteen": "二食堂",
+        "sales": 132.1,
+        "orders": 11
+      },
+      {
+        "date": 1772496000000,
+        "canteen": "一食堂",
+        "sales": 224.3,
+        "orders": 16
+      },
+      {
+        "date": 1772496000000,
+        "canteen": "三食堂",
+        "sales": 225.1,
+        "orders": 15
+      },
+      {
+        "date": 1772496000000,
+        "canteen": "二食堂",
+        "sales": 346.5,
+        "orders": 23
+      },
+      {
+        "date": 1772582400000,
+        "canteen": "一食堂",
+        "sales": 446.2,
+        "orders": 35
+      },
+      {
+        "date": 1772582400000,
+        "canteen": "三食堂",
+        "sales": 175.8,
+        "orders": 11
+      },
+      {
+        "date": 1772582400000,
+        "canteen": "二食堂",
+        "sales": 271.6,
+        "orders": 18
+      },
+      {
+        "date": 1772668800000,
+        "canteen": "一食堂",
+        "sales": 335.1,
+        "orders": 22
+      },
+      {
+        "date": 1772668800000,
+        "canteen": "三食堂",
+        "sales": 188.7,
+        "orders": 11
+      },
+      {
+        "date": 1772668800000,
+        "canteen": "二食堂",
+        "sales": 166.6,
+        "orders": 11
+      },
+      {
+        "date": 1772755200000,
+        "canteen": "一食堂",
+        "sales": 244.0,
+        "orders": 17
+      },
+      {
+        "date": 1772755200000,
+        "canteen": "三食堂",
+        "sales": 175.5,
+        "orders": 12
+      },
+      {
+        "date": 1772755200000,
+        "canteen": "二食堂",
+        "sales": 228.8,
+        "orders": 19
+      },
+      {
+        "date": 1772841600000,
+        "canteen": "一食堂",
+        "sales": 397.7,
+        "orders": 29
+      },
+      {
+        "date": 1772841600000,
+        "canteen": "三食堂",
+        "sales": 182.3,
+        "orders": 16
+      },
+      {
+        "date": 1772841600000,
+        "canteen": "二食堂",
+        "sales": 376.4,
+        "orders": 21
+      },
+      {
+        "date": 1772928000000,
+        "canteen": "一食堂",
+        "sales": 296.6,
+        "orders": 19
+      },
+      {
+        "date": 1772928000000,
+        "canteen": "三食堂",
+        "sales": 146.6,
+        "orders": 14
+      },
+      {
+        "date": 1772928000000,
+        "canteen": "二食堂",
+        "sales": 357.0,
+        "orders": 20
+      },
+      {
+        "date": 1773014400000,
+        "canteen": "一食堂",
+        "sales": 320.7,
+        "orders": 24
+      },
+      {
+        "date": 1773014400000,
+        "canteen": "三食堂",
+        "sales": 274.1,
+        "orders": 19
+      },
+      {
+        "date": 1773014400000,
+        "canteen": "二食堂",
+        "sales": 266.8,
+        "orders": 20
+      },
+      {
+        "date": 1773100800000,
+        "canteen": "一食堂",
+        "sales": 171.0,
+        "orders": 19
+      },
+      {
+        "date": 1773100800000,
+        "canteen": "三食堂",
+        "sales": 215.6,
+        "orders": 12
+      },
+      {
+        "date": 1773100800000,
+        "canteen": "二食堂",
+        "sales": 140.9,
+        "orders": 13
+      },
+      {
+        "date": 1773187200000,
+        "canteen": "一食堂",
+        "sales": 541.4,
+        "orders": 34
+      },
+      {
+        "date": 1773187200000,
+        "canteen": "三食堂",
+        "sales": 258.6,
+        "orders": 19
+      },
+      {
+        "date": 1773187200000,
+        "canteen": "二食堂",
+        "sales": 344.6,
+        "orders": 20
+      },
+      {
+        "date": 1773273600000,
+        "canteen": "一食堂",
+        "sales": 398.8,
+        "orders": 23
+      },
+      {
+        "date": 1773273600000,
+        "canteen": "三食堂",
+        "sales": 169.0,
+        "orders": 15
+      },
+      {
+        "date": 1773273600000,
+        "canteen": "二食堂",
+        "sales": 192.5,
+        "orders": 11
+      },
+      {
+        "date": 1773360000000,
+        "canteen": "一食堂",
+        "sales": 312.1,
+        "orders": 22
+      },
+      {
+        "date": 1773360000000,
+        "canteen": "三食堂",
+        "sales": 136.0,
+        "orders": 9
+      },
+      {
+        "date": 1773360000000,
+        "canteen": "二食堂",
+        "sales": 278.4,
+        "orders": 20
+      },
+      {
+        "date": 1773446400000,
+        "canteen": "一食堂",
+        "sales": 272.0,
+        "orders": 27
+      },
+      {
+        "date": 1773446400000,
+        "canteen": "三食堂",
+        "sales": 189.0,
+        "orders": 12
+      },
+      {
+        "date": 1773446400000,
+        "canteen": "二食堂",
+        "sales": 186.3,
+        "orders": 16
+      },
+      {
+        "date": 1773532800000,
+        "canteen": "一食堂",
+        "sales": 204.1,
+        "orders": 13
+      },
+      {
+        "date": 1773532800000,
+        "canteen": "三食堂",
+        "sales": 148.8,
+        "orders": 10
+      },
+      {
+        "date": 1773532800000,
+        "canteen": "二食堂",
+        "sales": 158.0,
+        "orders": 12
+      },
+      {
+        "date": 1773619200000,
+        "canteen": "一食堂",
+        "sales": 333.3,
+        "orders": 23
+      },
+      {
+        "date": 1773619200000,
+        "canteen": "三食堂",
+        "sales": 267.5,
+        "orders": 17
+      },
+      {
+        "date": 1773619200000,
+        "canteen": "二食堂",
+        "sales": 264.3,
+        "orders": 17
+      },
+      {
+        "date": 1773705600000,
+        "canteen": "一食堂",
+        "sales": 338.2,
+        "orders": 18
+      },
+      {
+        "date": 1773705600000,
+        "canteen": "三食堂",
+        "sales": 83.0,
+        "orders": 10
+      },
+      {
+        "date": 1773705600000,
+        "canteen": "二食堂",
+        "sales": 284.5,
+        "orders": 22
+      },
+      {
+        "date": 1773792000000,
+        "canteen": "一食堂",
+        "sales": 383.6,
+        "orders": 22
+      },
+      {
+        "date": 1773792000000,
+        "canteen": "三食堂",
+        "sales": 101.0,
+        "orders": 10
+      },
+      {
+        "date": 1773792000000,
+        "canteen": "二食堂",
+        "sales": 359.5,
+        "orders": 20
+      },
+      {
+        "date": 1773878400000,
+        "canteen": "一食堂",
+        "sales": 275.8,
+        "orders": 19
+      },
+      {
+        "date": 1773878400000,
+        "canteen": "三食堂",
+        "sales": 119.5,
+        "orders": 10
+      },
+      {
+        "date": 1773878400000,
+        "canteen": "二食堂",
+        "sales": 502.9,
+        "orders": 24
+      },
+      {
+        "date": 1773964800000,
+        "canteen": "一食堂",
+        "sales": 273.7,
+        "orders": 21
+      },
+      {
+        "date": 1773964800000,
+        "canteen": "三食堂",
+        "sales": 152.6,
+        "orders": 12
+      },
+      {
+        "date": 1773964800000,
+        "canteen": "二食堂",
+        "sales": 382.6,
+        "orders": 29
+      },
+      {
+        "date": 1774051200000,
+        "canteen": "一食堂",
+        "sales": 287.5,
+        "orders": 17
+      },
+      {
+        "date": 1774051200000,
+        "canteen": "三食堂",
+        "sales": 154.2,
+        "orders": 10
+      },
+      {
+        "date": 1774051200000,
+        "canteen": "二食堂",
+        "sales": 235.2,
+        "orders": 17
+      },
+      {
+        "date": 1774137600000,
+        "canteen": "一食堂",
+        "sales": 379.8,
+        "orders": 30
+      },
+      {
+        "date": 1774137600000,
+        "canteen": "三食堂",
+        "sales": 217.0,
+        "orders": 11
+      },
+      {
+        "date": 1774137600000,
+        "canteen": "二食堂",
+        "sales": 247.9,
+        "orders": 20
+      },
+      {
+        "date": 1774224000000,
+        "canteen": "一食堂",
+        "sales": 334.7,
+        "orders": 23
+      },
+      {
+        "date": 1774224000000,
+        "canteen": "三食堂",
+        "sales": 197.8,
+        "orders": 13
+      },
+      {
+        "date": 1774224000000,
+        "canteen": "二食堂",
+        "sales": 237.5,
+        "orders": 14
+      },
+      {
+        "date": 1774310400000,
+        "canteen": "一食堂",
+        "sales": 401.6,
+        "orders": 25
+      },
+      {
+        "date": 1774310400000,
+        "canteen": "三食堂",
+        "sales": 264.0,
+        "orders": 13
+      },
+      {
+        "date": 1774310400000,
+        "canteen": "二食堂",
+        "sales": 323.5,
+        "orders": 20
+      },
+      {
+        "date": 1774396800000,
+        "canteen": "一食堂",
+        "sales": 174.6,
+        "orders": 15
+      },
+      {
+        "date": 1774396800000,
+        "canteen": "三食堂",
+        "sales": 147.1,
+        "orders": 11
+      },
+      {
+        "date": 1774396800000,
+        "canteen": "二食堂",
+        "sales": 135.4,
+        "orders": 12
+      },
+      {
+        "date": 1774483200000,
+        "canteen": "一食堂",
+        "sales": 385.5,
+        "orders": 30
+      },
+      {
+        "date": 1774483200000,
+        "canteen": "三食堂",
+        "sales": 87.6,
+        "orders": 11
+      },
+      {
+        "date": 1774483200000,
+        "canteen": "二食堂",
+        "sales": 315.8,
+        "orders": 22
+      },
+      {
+        "date": 1774569600000,
+        "canteen": "一食堂",
+        "sales": 375.8,
+        "orders": 22
+      },
+      {
+        "date": 1774569600000,
+        "canteen": "三食堂",
+        "sales": 294.2,
+        "orders": 17
+      },
+      {
+        "date": 1774569600000,
+        "canteen": "二食堂",
+        "sales": 257.6,
+        "orders": 18
+      },
+      {
+        "date": 1774656000000,
+        "canteen": "一食堂",
+        "sales": 308.0,
+        "orders": 18
+      },
+      {
+        "date": 1774656000000,
+        "canteen": "三食堂",
+        "sales": 227.2,
+        "orders": 14
+      },
+      {
+        "date": 1774656000000,
+        "canteen": "二食堂",
+        "sales": 190.3,
+        "orders": 17
+      },
+      {
+        "date": 1774742400000,
+        "canteen": "一食堂",
+        "sales": 344.3,
+        "orders": 22
+      },
+      {
+        "date": 1774742400000,
+        "canteen": "三食堂",
+        "sales": 186.2,
+        "orders": 20
+      },
+      {
+        "date": 1774742400000,
+        "canteen": "二食堂",
+        "sales": 188.9,
+        "orders": 19
+      },
+      {
+        "date": 1774828800000,
+        "canteen": "一食堂",
+        "sales": 409.8,
+        "orders": 23
+      },
+      {
+        "date": 1774828800000,
+        "canteen": "三食堂",
+        "sales": 212.0,
+        "orders": 12
+      },
+      {
+        "date": 1774828800000,
+        "canteen": "二食堂",
+        "sales": 289.9,
+        "orders": 20
+      },
+      {
+        "date": 1774915200000,
+        "canteen": "一食堂",
+        "sales": 361.3,
+        "orders": 33
+      },
+      {
+        "date": 1774915200000,
+        "canteen": "三食堂",
+        "sales": 261.5,
+        "orders": 16
+      },
+      {
+        "date": 1774915200000,
+        "canteen": "二食堂",
+        "sales": 437.4,
+        "orders": 26
+      },
+      {
+        "date": 1775001600000,
+        "canteen": "一食堂",
+        "sales": 660.3,
+        "orders": 38
+      },
+      {
+        "date": 1775001600000,
+        "canteen": "三食堂",
+        "sales": 190.4,
+        "orders": 11
+      },
+      {
+        "date": 1775001600000,
+        "canteen": "二食堂",
+        "sales": 281.1,
+        "orders": 13
+      },
+      {
+        "date": 1775088000000,
+        "canteen": "一食堂",
+        "sales": 312.8,
+        "orders": 25
+      },
+      {
+        "date": 1775088000000,
+        "canteen": "三食堂",
+        "sales": 208.1,
+        "orders": 15
+      },
+      {
+        "date": 1775088000000,
+        "canteen": "二食堂",
+        "sales": 296.2,
+        "orders": 17
+      },
+      {
+        "date": 1775174400000,
+        "canteen": "一食堂",
+        "sales": 222.7,
+        "orders": 15
+      },
+      {
+        "date": 1775174400000,
+        "canteen": "三食堂",
+        "sales": 93.6,
+        "orders": 7
+      },
+      {
+        "date": 1775174400000,
+        "canteen": "二食堂",
+        "sales": 265.0,
+        "orders": 18
+      },
+      {
+        "date": 1775260800000,
+        "canteen": "一食堂",
+        "sales": 435.8,
+        "orders": 23
+      },
+      {
+        "date": 1775260800000,
+        "canteen": "三食堂",
+        "sales": 214.1,
+        "orders": 14
+      },
+      {
+        "date": 1775260800000,
+        "canteen": "二食堂",
+        "sales": 150.5,
+        "orders": 11
+      },
+      {
+        "date": 1775347200000,
+        "canteen": "一食堂",
+        "sales": 425.1,
+        "orders": 30
+      },
+      {
+        "date": 1775347200000,
+        "canteen": "三食堂",
+        "sales": 208.5,
+        "orders": 14
+      },
+      {
+        "date": 1775347200000,
+        "canteen": "二食堂",
+        "sales": 231.7,
+        "orders": 19
+      },
+      {
+        "date": 1775433600000,
+        "canteen": "一食堂",
+        "sales": 193.4,
+        "orders": 16
+      },
+      {
+        "date": 1775433600000,
+        "canteen": "三食堂",
+        "sales": 239.5,
+        "orders": 13
+      },
+      {
+        "date": 1775433600000,
+        "canteen": "二食堂",
+        "sales": 266.6,
+        "orders": 17
+      },
+      {
+        "date": 1775520000000,
+        "canteen": "一食堂",
+        "sales": 299.7,
+        "orders": 18
+      },
+      {
+        "date": 1775520000000,
+        "canteen": "三食堂",
+        "sales": 383.0,
+        "orders": 22
+      },
+      {
+        "date": 1775520000000,
+        "canteen": "二食堂",
+        "sales": 184.0,
+        "orders": 15
+      },
+      {
+        "date": 1775606400000,
+        "canteen": "一食堂",
+        "sales": 254.5,
+        "orders": 22
+      },
+      {
+        "date": 1775606400000,
+        "canteen": "三食堂",
+        "sales": 241.4,
+        "orders": 17
+      },
+      {
+        "date": 1775606400000,
+        "canteen": "二食堂",
+        "sales": 275.7,
+        "orders": 18
+      },
+      {
+        "date": 1775692800000,
+        "canteen": "一食堂",
+        "sales": 198.3,
+        "orders": 15
+      },
+      {
+        "date": 1775692800000,
+        "canteen": "三食堂",
+        "sales": 283.6,
+        "orders": 14
+      },
+      {
+        "date": 1775692800000,
+        "canteen": "二食堂",
+        "sales": 231.2,
+        "orders": 17
+      },
+      {
+        "date": 1775779200000,
+        "canteen": "一食堂",
+        "sales": 243.9,
+        "orders": 14
+      },
+      {
+        "date": 1775779200000,
+        "canteen": "三食堂",
+        "sales": 238.9,
+        "orders": 14
+      },
+      {
+        "date": 1775779200000,
+        "canteen": "二食堂",
+        "sales": 181.9,
+        "orders": 10
+      },
+      {
+        "date": 1775865600000,
+        "canteen": "一食堂",
+        "sales": 395.5,
+        "orders": 28
+      },
+      {
+        "date": 1775865600000,
+        "canteen": "三食堂",
+        "sales": 148.0,
+        "orders": 14
+      },
+      {
+        "date": 1775865600000,
+        "canteen": "二食堂",
+        "sales": 334.8,
+        "orders": 21
+      },
+      {
+        "date": 1775952000000,
+        "canteen": "一食堂",
+        "sales": 317.5,
+        "orders": 18
+      },
+      {
+        "date": 1775952000000,
+        "canteen": "三食堂",
+        "sales": 98.0,
+        "orders": 9
+      },
+      {
+        "date": 1775952000000,
+        "canteen": "二食堂",
+        "sales": 278.0,
+        "orders": 20
+      },
+      {
+        "date": 1776038400000,
+        "canteen": "一食堂",
+        "sales": 403.7,
+        "orders": 28
+      },
+      {
+        "date": 1776038400000,
+        "canteen": "三食堂",
+        "sales": 143.9,
+        "orders": 13
+      },
+      {
+        "date": 1776038400000,
+        "canteen": "二食堂",
+        "sales": 242.5,
+        "orders": 14
+      },
+      {
+        "date": 1776124800000,
+        "canteen": "一食堂",
+        "sales": 292.5,
+        "orders": 23
+      },
+      {
+        "date": 1776124800000,
+        "canteen": "三食堂",
+        "sales": 200.3,
+        "orders": 10
+      },
+      {
+        "date": 1776124800000,
+        "canteen": "二食堂",
+        "sales": 270.3,
+        "orders": 18
+      },
+      {
+        "date": 1776211200000,
+        "canteen": "一食堂",
+        "sales": 307.2,
+        "orders": 25
+      },
+      {
+        "date": 1776211200000,
+        "canteen": "三食堂",
+        "sales": 47.2,
+        "orders": 6
+      },
+      {
+        "date": 1776211200000,
+        "canteen": "二食堂",
+        "sales": 254.0,
+        "orders": 17
+      },
+      {
+        "date": 1776297600000,
+        "canteen": "一食堂",
+        "sales": 431.7,
+        "orders": 23
+      },
+      {
+        "date": 1776297600000,
+        "canteen": "三食堂",
+        "sales": 214.5,
+        "orders": 14
+      },
+      {
+        "date": 1776297600000,
+        "canteen": "二食堂",
+        "sales": 240.7,
+        "orders": 18
       }
     ],
     "clusterProfile": [
@@ -13158,6 +15381,2481 @@
         "suggested_prep": 3,
         "risk": "正常",
         "advice": "保持供应"
+      }
+    ],
+    "resourceUtilization": [
+      {
+        "canteen": "一食堂",
+        "sales": 24589.9,
+        "orders": 1679,
+        "students": 483,
+        "rating": 4.018125,
+        "pred_total": 224.9,
+        "prep_total": 257,
+        "utilization_index": 49.41
+      },
+      {
+        "canteen": "二食堂",
+        "sales": 19388.0,
+        "orders": 1339,
+        "students": 463,
+        "rating": 4.0180466039,
+        "pred_total": 14.4,
+        "prep_total": 15,
+        "utilization_index": 43.4
+      },
+      {
+        "canteen": "三食堂",
+        "sales": 14285.3,
+        "orders": 982,
+        "students": 430,
+        "rating": 4.023160027,
+        "pred_total": 56.4,
+        "prep_total": 62,
+        "utilization_index": 37.38
+      }
+    ],
+    "feedbackInsights": {
+      "dishScores": [],
+      "canteenScores": [],
+      "lowComments": []
+    },
+    "satisfactionTrend": [
+      {
+        "date": "2026-02-01",
+        "canteen": "一食堂",
+        "order_rating": 3.9703703704,
+        "order_count": 16,
+        "feedback_score": 3.9703703704,
+        "composite_score": 3.97
+      },
+      {
+        "date": "2026-02-01",
+        "canteen": "三食堂",
+        "order_rating": 4.0956521739,
+        "order_count": 16,
+        "feedback_score": 4.0956521739,
+        "composite_score": 4.1
+      },
+      {
+        "date": "2026-02-01",
+        "canteen": "二食堂",
+        "order_rating": 3.9441176471,
+        "order_count": 21,
+        "feedback_score": 3.9441176471,
+        "composite_score": 3.94
+      },
+      {
+        "date": "2026-02-02",
+        "canteen": "一食堂",
+        "order_rating": 4.06,
+        "order_count": 24,
+        "feedback_score": 4.06,
+        "composite_score": 4.06
+      },
+      {
+        "date": "2026-02-02",
+        "canteen": "三食堂",
+        "order_rating": 3.9315789474,
+        "order_count": 12,
+        "feedback_score": 3.9315789474,
+        "composite_score": 3.93
+      },
+      {
+        "date": "2026-02-02",
+        "canteen": "二食堂",
+        "order_rating": 3.8357142857,
+        "order_count": 11,
+        "feedback_score": 3.8357142857,
+        "composite_score": 3.84
+      },
+      {
+        "date": "2026-02-03",
+        "canteen": "一食堂",
+        "order_rating": 3.9444444444,
+        "order_count": 20,
+        "feedback_score": 3.9444444444,
+        "composite_score": 3.94
+      },
+      {
+        "date": "2026-02-03",
+        "canteen": "三食堂",
+        "order_rating": 3.8625,
+        "order_count": 15,
+        "feedback_score": 3.8625,
+        "composite_score": 3.86
+      },
+      {
+        "date": "2026-02-03",
+        "canteen": "二食堂",
+        "order_rating": 4.14,
+        "order_count": 18,
+        "feedback_score": 4.14,
+        "composite_score": 4.14
+      },
+      {
+        "date": "2026-02-04",
+        "canteen": "一食堂",
+        "order_rating": 3.9714285714,
+        "order_count": 22,
+        "feedback_score": 3.9714285714,
+        "composite_score": 3.97
+      },
+      {
+        "date": "2026-02-04",
+        "canteen": "三食堂",
+        "order_rating": 3.94375,
+        "order_count": 13,
+        "feedback_score": 3.94375,
+        "composite_score": 3.94
+      },
+      {
+        "date": "2026-02-04",
+        "canteen": "二食堂",
+        "order_rating": 4.0259259259,
+        "order_count": 17,
+        "feedback_score": 4.0259259259,
+        "composite_score": 4.03
+      },
+      {
+        "date": "2026-02-05",
+        "canteen": "一食堂",
+        "order_rating": 3.9878787879,
+        "order_count": 23,
+        "feedback_score": 3.9878787879,
+        "composite_score": 3.99
+      },
+      {
+        "date": "2026-02-05",
+        "canteen": "三食堂",
+        "order_rating": 4.1125,
+        "order_count": 8,
+        "feedback_score": 4.1125,
+        "composite_score": 4.11
+      },
+      {
+        "date": "2026-02-05",
+        "canteen": "二食堂",
+        "order_rating": 4.0366666667,
+        "order_count": 19,
+        "feedback_score": 4.0366666667,
+        "composite_score": 4.04
+      },
+      {
+        "date": "2026-02-06",
+        "canteen": "一食堂",
+        "order_rating": 4.1461538462,
+        "order_count": 19,
+        "feedback_score": 4.1461538462,
+        "composite_score": 4.15
+      },
+      {
+        "date": "2026-02-06",
+        "canteen": "三食堂",
+        "order_rating": 3.9733333333,
+        "order_count": 13,
+        "feedback_score": 3.9733333333,
+        "composite_score": 3.97
+      },
+      {
+        "date": "2026-02-06",
+        "canteen": "二食堂",
+        "order_rating": 4.15,
+        "order_count": 17,
+        "feedback_score": 4.15,
+        "composite_score": 4.15
+      },
+      {
+        "date": "2026-02-07",
+        "canteen": "一食堂",
+        "order_rating": 4.1769230769,
+        "order_count": 25,
+        "feedback_score": 4.1769230769,
+        "composite_score": 4.18
+      },
+      {
+        "date": "2026-02-07",
+        "canteen": "三食堂",
+        "order_rating": 3.9846153846,
+        "order_count": 17,
+        "feedback_score": 3.9846153846,
+        "composite_score": 3.98
+      },
+      {
+        "date": "2026-02-07",
+        "canteen": "二食堂",
+        "order_rating": 3.9533333333,
+        "order_count": 12,
+        "feedback_score": 3.9533333333,
+        "composite_score": 3.95
+      },
+      {
+        "date": "2026-02-08",
+        "canteen": "一食堂",
+        "order_rating": 4.1642857143,
+        "order_count": 26,
+        "feedback_score": 4.1642857143,
+        "composite_score": 4.16
+      },
+      {
+        "date": "2026-02-08",
+        "canteen": "三食堂",
+        "order_rating": 3.875,
+        "order_count": 9,
+        "feedback_score": 3.875,
+        "composite_score": 3.88
+      },
+      {
+        "date": "2026-02-08",
+        "canteen": "二食堂",
+        "order_rating": 4.1242424242,
+        "order_count": 23,
+        "feedback_score": 4.1242424242,
+        "composite_score": 4.12
+      },
+      {
+        "date": "2026-02-09",
+        "canteen": "一食堂",
+        "order_rating": 4.1424242424,
+        "order_count": 24,
+        "feedback_score": 4.1424242424,
+        "composite_score": 4.14
+      },
+      {
+        "date": "2026-02-09",
+        "canteen": "三食堂",
+        "order_rating": 4.0470588235,
+        "order_count": 11,
+        "feedback_score": 4.0470588235,
+        "composite_score": 4.05
+      },
+      {
+        "date": "2026-02-09",
+        "canteen": "二食堂",
+        "order_rating": 3.9875,
+        "order_count": 15,
+        "feedback_score": 3.9875,
+        "composite_score": 3.99
+      },
+      {
+        "date": "2026-02-10",
+        "canteen": "一食堂",
+        "order_rating": 4.0689655172,
+        "order_count": 24,
+        "feedback_score": 4.0689655172,
+        "composite_score": 4.07
+      },
+      {
+        "date": "2026-02-10",
+        "canteen": "三食堂",
+        "order_rating": 4.0125,
+        "order_count": 11,
+        "feedback_score": 4.0125,
+        "composite_score": 4.01
+      },
+      {
+        "date": "2026-02-10",
+        "canteen": "二食堂",
+        "order_rating": 4.0038461538,
+        "order_count": 20,
+        "feedback_score": 4.0038461538,
+        "composite_score": 4.0
+      },
+      {
+        "date": "2026-02-11",
+        "canteen": "一食堂",
+        "order_rating": 3.9764705882,
+        "order_count": 18,
+        "feedback_score": 3.9764705882,
+        "composite_score": 3.98
+      },
+      {
+        "date": "2026-02-11",
+        "canteen": "三食堂",
+        "order_rating": 4.0947368421,
+        "order_count": 12,
+        "feedback_score": 4.0947368421,
+        "composite_score": 4.09
+      },
+      {
+        "date": "2026-02-11",
+        "canteen": "二食堂",
+        "order_rating": 4.0466666667,
+        "order_count": 22,
+        "feedback_score": 4.0466666667,
+        "composite_score": 4.05
+      },
+      {
+        "date": "2026-02-12",
+        "canteen": "一食堂",
+        "order_rating": 4.0333333333,
+        "order_count": 23,
+        "feedback_score": 4.0333333333,
+        "composite_score": 4.03
+      },
+      {
+        "date": "2026-02-12",
+        "canteen": "三食堂",
+        "order_rating": 3.885,
+        "order_count": 14,
+        "feedback_score": 3.885,
+        "composite_score": 3.88
+      },
+      {
+        "date": "2026-02-12",
+        "canteen": "二食堂",
+        "order_rating": 4.0617647059,
+        "order_count": 22,
+        "feedback_score": 4.0617647059,
+        "composite_score": 4.06
+      },
+      {
+        "date": "2026-02-13",
+        "canteen": "一食堂",
+        "order_rating": 4.0225806452,
+        "order_count": 23,
+        "feedback_score": 4.0225806452,
+        "composite_score": 4.02
+      },
+      {
+        "date": "2026-02-13",
+        "canteen": "三食堂",
+        "order_rating": 4.015,
+        "order_count": 11,
+        "feedback_score": 4.015,
+        "composite_score": 4.01
+      },
+      {
+        "date": "2026-02-13",
+        "canteen": "二食堂",
+        "order_rating": 4.1138888889,
+        "order_count": 23,
+        "feedback_score": 4.1138888889,
+        "composite_score": 4.11
+      },
+      {
+        "date": "2026-02-14",
+        "canteen": "一食堂",
+        "order_rating": 3.9725,
+        "order_count": 26,
+        "feedback_score": 3.9725,
+        "composite_score": 3.97
+      },
+      {
+        "date": "2026-02-14",
+        "canteen": "三食堂",
+        "order_rating": 4.0636363636,
+        "order_count": 14,
+        "feedback_score": 4.0636363636,
+        "composite_score": 4.06
+      },
+      {
+        "date": "2026-02-14",
+        "canteen": "二食堂",
+        "order_rating": 4.05,
+        "order_count": 18,
+        "feedback_score": 4.05,
+        "composite_score": 4.05
+      },
+      {
+        "date": "2026-02-15",
+        "canteen": "一食堂",
+        "order_rating": 3.9783783784,
+        "order_count": 26,
+        "feedback_score": 3.9783783784,
+        "composite_score": 3.98
+      },
+      {
+        "date": "2026-02-15",
+        "canteen": "三食堂",
+        "order_rating": 4.03125,
+        "order_count": 10,
+        "feedback_score": 4.03125,
+        "composite_score": 4.03
+      },
+      {
+        "date": "2026-02-15",
+        "canteen": "二食堂",
+        "order_rating": 4.04,
+        "order_count": 13,
+        "feedback_score": 4.04,
+        "composite_score": 4.04
+      },
+      {
+        "date": "2026-02-16",
+        "canteen": "一食堂",
+        "order_rating": 3.8368421053,
+        "order_count": 16,
+        "feedback_score": 3.8368421053,
+        "composite_score": 3.84
+      },
+      {
+        "date": "2026-02-16",
+        "canteen": "三食堂",
+        "order_rating": 4.0058823529,
+        "order_count": 12,
+        "feedback_score": 4.0058823529,
+        "composite_score": 4.01
+      },
+      {
+        "date": "2026-02-16",
+        "canteen": "二食堂",
+        "order_rating": 4.0777777778,
+        "order_count": 20,
+        "feedback_score": 4.0777777778,
+        "composite_score": 4.08
+      },
+      {
+        "date": "2026-02-17",
+        "canteen": "一食堂",
+        "order_rating": 4.0447368421,
+        "order_count": 25,
+        "feedback_score": 4.0447368421,
+        "composite_score": 4.04
+      },
+      {
+        "date": "2026-02-17",
+        "canteen": "三食堂",
+        "order_rating": 4.155,
+        "order_count": 19,
+        "feedback_score": 4.155,
+        "composite_score": 4.15
+      },
+      {
+        "date": "2026-02-17",
+        "canteen": "二食堂",
+        "order_rating": 4.0805555556,
+        "order_count": 23,
+        "feedback_score": 4.0805555556,
+        "composite_score": 4.08
+      },
+      {
+        "date": "2026-02-18",
+        "canteen": "一食堂",
+        "order_rating": 3.95,
+        "order_count": 16,
+        "feedback_score": 3.95,
+        "composite_score": 3.95
+      },
+      {
+        "date": "2026-02-18",
+        "canteen": "三食堂",
+        "order_rating": 3.9214285714,
+        "order_count": 12,
+        "feedback_score": 3.9214285714,
+        "composite_score": 3.92
+      },
+      {
+        "date": "2026-02-18",
+        "canteen": "二食堂",
+        "order_rating": 3.7793103448,
+        "order_count": 20,
+        "feedback_score": 3.7793103448,
+        "composite_score": 3.78
+      },
+      {
+        "date": "2026-02-19",
+        "canteen": "一食堂",
+        "order_rating": 4.1414634146,
+        "order_count": 24,
+        "feedback_score": 4.1414634146,
+        "composite_score": 4.14
+      },
+      {
+        "date": "2026-02-19",
+        "canteen": "三食堂",
+        "order_rating": 3.9636363636,
+        "order_count": 14,
+        "feedback_score": 3.9636363636,
+        "composite_score": 3.96
+      },
+      {
+        "date": "2026-02-19",
+        "canteen": "二食堂",
+        "order_rating": 3.875,
+        "order_count": 14,
+        "feedback_score": 3.875,
+        "composite_score": 3.88
+      },
+      {
+        "date": "2026-02-20",
+        "canteen": "一食堂",
+        "order_rating": 4.0914285714,
+        "order_count": 21,
+        "feedback_score": 4.0914285714,
+        "composite_score": 4.09
+      },
+      {
+        "date": "2026-02-20",
+        "canteen": "三食堂",
+        "order_rating": 3.956,
+        "order_count": 18,
+        "feedback_score": 3.956,
+        "composite_score": 3.96
+      },
+      {
+        "date": "2026-02-20",
+        "canteen": "二食堂",
+        "order_rating": 4.1466666667,
+        "order_count": 21,
+        "feedback_score": 4.1466666667,
+        "composite_score": 4.15
+      },
+      {
+        "date": "2026-02-21",
+        "canteen": "一食堂",
+        "order_rating": 3.8027777778,
+        "order_count": 25,
+        "feedback_score": 3.8027777778,
+        "composite_score": 3.8
+      },
+      {
+        "date": "2026-02-21",
+        "canteen": "三食堂",
+        "order_rating": 4.1315789474,
+        "order_count": 13,
+        "feedback_score": 4.1315789474,
+        "composite_score": 4.13
+      },
+      {
+        "date": "2026-02-21",
+        "canteen": "二食堂",
+        "order_rating": 4.124,
+        "order_count": 20,
+        "feedback_score": 4.124,
+        "composite_score": 4.12
+      },
+      {
+        "date": "2026-02-22",
+        "canteen": "一食堂",
+        "order_rating": 4.0447368421,
+        "order_count": 26,
+        "feedback_score": 4.0447368421,
+        "composite_score": 4.04
+      },
+      {
+        "date": "2026-02-22",
+        "canteen": "三食堂",
+        "order_rating": 4.0,
+        "order_count": 8,
+        "feedback_score": 4.0,
+        "composite_score": 4.0
+      },
+      {
+        "date": "2026-02-22",
+        "canteen": "二食堂",
+        "order_rating": 3.9769230769,
+        "order_count": 16,
+        "feedback_score": 3.9769230769,
+        "composite_score": 3.98
+      },
+      {
+        "date": "2026-02-23",
+        "canteen": "一食堂",
+        "order_rating": 4.046875,
+        "order_count": 19,
+        "feedback_score": 4.046875,
+        "composite_score": 4.05
+      },
+      {
+        "date": "2026-02-23",
+        "canteen": "三食堂",
+        "order_rating": 3.95,
+        "order_count": 19,
+        "feedback_score": 3.95,
+        "composite_score": 3.95
+      },
+      {
+        "date": "2026-02-23",
+        "canteen": "二食堂",
+        "order_rating": 3.9631578947,
+        "order_count": 15,
+        "feedback_score": 3.9631578947,
+        "composite_score": 3.96
+      },
+      {
+        "date": "2026-02-24",
+        "canteen": "一食堂",
+        "order_rating": 4.1125,
+        "order_count": 28,
+        "feedback_score": 4.1125,
+        "composite_score": 4.11
+      },
+      {
+        "date": "2026-02-24",
+        "canteen": "三食堂",
+        "order_rating": 3.9692307692,
+        "order_count": 15,
+        "feedback_score": 3.9692307692,
+        "composite_score": 3.97
+      },
+      {
+        "date": "2026-02-24",
+        "canteen": "二食堂",
+        "order_rating": 4.112,
+        "order_count": 16,
+        "feedback_score": 4.112,
+        "composite_score": 4.11
+      },
+      {
+        "date": "2026-02-25",
+        "canteen": "一食堂",
+        "order_rating": 3.9833333333,
+        "order_count": 24,
+        "feedback_score": 3.9833333333,
+        "composite_score": 3.98
+      },
+      {
+        "date": "2026-02-25",
+        "canteen": "三食堂",
+        "order_rating": 4.0071428571,
+        "order_count": 11,
+        "feedback_score": 4.0071428571,
+        "composite_score": 4.01
+      },
+      {
+        "date": "2026-02-25",
+        "canteen": "二食堂",
+        "order_rating": 4.115625,
+        "order_count": 21,
+        "feedback_score": 4.115625,
+        "composite_score": 4.12
+      },
+      {
+        "date": "2026-02-26",
+        "canteen": "一食堂",
+        "order_rating": 4.0185185185,
+        "order_count": 19,
+        "feedback_score": 4.0185185185,
+        "composite_score": 4.02
+      },
+      {
+        "date": "2026-02-26",
+        "canteen": "三食堂",
+        "order_rating": 3.9904761905,
+        "order_count": 14,
+        "feedback_score": 3.9904761905,
+        "composite_score": 3.99
+      },
+      {
+        "date": "2026-02-26",
+        "canteen": "二食堂",
+        "order_rating": 3.9303030303,
+        "order_count": 22,
+        "feedback_score": 3.9303030303,
+        "composite_score": 3.93
+      },
+      {
+        "date": "2026-02-27",
+        "canteen": "一食堂",
+        "order_rating": 3.915,
+        "order_count": 26,
+        "feedback_score": 3.915,
+        "composite_score": 3.92
+      },
+      {
+        "date": "2026-02-27",
+        "canteen": "三食堂",
+        "order_rating": 3.9392857143,
+        "order_count": 17,
+        "feedback_score": 3.9392857143,
+        "composite_score": 3.94
+      },
+      {
+        "date": "2026-02-27",
+        "canteen": "二食堂",
+        "order_rating": 3.912,
+        "order_count": 16,
+        "feedback_score": 3.912,
+        "composite_score": 3.91
+      },
+      {
+        "date": "2026-02-28",
+        "canteen": "一食堂",
+        "order_rating": 3.9407407407,
+        "order_count": 16,
+        "feedback_score": 3.9407407407,
+        "composite_score": 3.94
+      },
+      {
+        "date": "2026-02-28",
+        "canteen": "三食堂",
+        "order_rating": 3.9333333333,
+        "order_count": 13,
+        "feedback_score": 3.9333333333,
+        "composite_score": 3.93
+      },
+      {
+        "date": "2026-02-28",
+        "canteen": "二食堂",
+        "order_rating": 3.912,
+        "order_count": 16,
+        "feedback_score": 3.912,
+        "composite_score": 3.91
+      },
+      {
+        "date": "2026-03-01",
+        "canteen": "一食堂",
+        "order_rating": 3.9527777778,
+        "order_count": 22,
+        "feedback_score": 3.9527777778,
+        "composite_score": 3.95
+      },
+      {
+        "date": "2026-03-01",
+        "canteen": "三食堂",
+        "order_rating": 4.2333333333,
+        "order_count": 12,
+        "feedback_score": 4.2333333333,
+        "composite_score": 4.23
+      },
+      {
+        "date": "2026-03-01",
+        "canteen": "二食堂",
+        "order_rating": 3.7888888889,
+        "order_count": 13,
+        "feedback_score": 3.7888888889,
+        "composite_score": 3.79
+      },
+      {
+        "date": "2026-03-02",
+        "canteen": "一食堂",
+        "order_rating": 4.125,
+        "order_count": 11,
+        "feedback_score": 4.125,
+        "composite_score": 4.12
+      },
+      {
+        "date": "2026-03-02",
+        "canteen": "三食堂",
+        "order_rating": 3.85,
+        "order_count": 10,
+        "feedback_score": 3.85,
+        "composite_score": 3.85
+      },
+      {
+        "date": "2026-03-02",
+        "canteen": "二食堂",
+        "order_rating": 3.95625,
+        "order_count": 11,
+        "feedback_score": 3.95625,
+        "composite_score": 3.96
+      },
+      {
+        "date": "2026-03-03",
+        "canteen": "一食堂",
+        "order_rating": 3.9217391304,
+        "order_count": 16,
+        "feedback_score": 3.9217391304,
+        "composite_score": 3.92
+      },
+      {
+        "date": "2026-03-03",
+        "canteen": "三食堂",
+        "order_rating": 4.1590909091,
+        "order_count": 15,
+        "feedback_score": 4.1590909091,
+        "composite_score": 4.16
+      },
+      {
+        "date": "2026-03-03",
+        "canteen": "二食堂",
+        "order_rating": 3.9555555556,
+        "order_count": 23,
+        "feedback_score": 3.9555555556,
+        "composite_score": 3.96
+      },
+      {
+        "date": "2026-03-04",
+        "canteen": "一食堂",
+        "order_rating": 4.0428571429,
+        "order_count": 35,
+        "feedback_score": 4.0428571429,
+        "composite_score": 4.04
+      },
+      {
+        "date": "2026-03-04",
+        "canteen": "三食堂",
+        "order_rating": 4.0176470588,
+        "order_count": 11,
+        "feedback_score": 4.0176470588,
+        "composite_score": 4.02
+      },
+      {
+        "date": "2026-03-04",
+        "canteen": "二食堂",
+        "order_rating": 4.1214285714,
+        "order_count": 18,
+        "feedback_score": 4.1214285714,
+        "composite_score": 4.12
+      },
+      {
+        "date": "2026-03-05",
+        "canteen": "一食堂",
+        "order_rating": 4.0342857143,
+        "order_count": 22,
+        "feedback_score": 4.0342857143,
+        "composite_score": 4.03
+      },
+      {
+        "date": "2026-03-05",
+        "canteen": "三食堂",
+        "order_rating": 3.9894736842,
+        "order_count": 11,
+        "feedback_score": 3.9894736842,
+        "composite_score": 3.99
+      },
+      {
+        "date": "2026-03-05",
+        "canteen": "二食堂",
+        "order_rating": 3.96875,
+        "order_count": 11,
+        "feedback_score": 3.96875,
+        "composite_score": 3.97
+      },
+      {
+        "date": "2026-03-06",
+        "canteen": "一食堂",
+        "order_rating": 4.0275862069,
+        "order_count": 17,
+        "feedback_score": 4.0275862069,
+        "composite_score": 4.03
+      },
+      {
+        "date": "2026-03-06",
+        "canteen": "三食堂",
+        "order_rating": 4.1125,
+        "order_count": 12,
+        "feedback_score": 4.1125,
+        "composite_score": 4.11
+      },
+      {
+        "date": "2026-03-06",
+        "canteen": "二食堂",
+        "order_rating": 3.9310344828,
+        "order_count": 19,
+        "feedback_score": 3.9310344828,
+        "composite_score": 3.93
+      },
+      {
+        "date": "2026-03-07",
+        "canteen": "一食堂",
+        "order_rating": 4.0487804878,
+        "order_count": 29,
+        "feedback_score": 4.0487804878,
+        "composite_score": 4.05
+      },
+      {
+        "date": "2026-03-07",
+        "canteen": "三食堂",
+        "order_rating": 4.1655172414,
+        "order_count": 16,
+        "feedback_score": 4.1655172414,
+        "composite_score": 4.17
+      },
+      {
+        "date": "2026-03-07",
+        "canteen": "二食堂",
+        "order_rating": 4.0575,
+        "order_count": 21,
+        "feedback_score": 4.0575,
+        "composite_score": 4.06
+      },
+      {
+        "date": "2026-03-08",
+        "canteen": "一食堂",
+        "order_rating": 3.8827586207,
+        "order_count": 19,
+        "feedback_score": 3.8827586207,
+        "composite_score": 3.88
+      },
+      {
+        "date": "2026-03-08",
+        "canteen": "三食堂",
+        "order_rating": 3.9421052632,
+        "order_count": 14,
+        "feedback_score": 3.9421052632,
+        "composite_score": 3.94
+      },
+      {
+        "date": "2026-03-08",
+        "canteen": "二食堂",
+        "order_rating": 4.08,
+        "order_count": 20,
+        "feedback_score": 4.08,
+        "composite_score": 4.08
+      },
+      {
+        "date": "2026-03-09",
+        "canteen": "一食堂",
+        "order_rating": 4.0028571429,
+        "order_count": 24,
+        "feedback_score": 4.0028571429,
+        "composite_score": 4.0
+      },
+      {
+        "date": "2026-03-09",
+        "canteen": "三食堂",
+        "order_rating": 4.1428571429,
+        "order_count": 19,
+        "feedback_score": 4.1428571429,
+        "composite_score": 4.14
+      },
+      {
+        "date": "2026-03-09",
+        "canteen": "二食堂",
+        "order_rating": 4.09,
+        "order_count": 20,
+        "feedback_score": 4.09,
+        "composite_score": 4.09
+      },
+      {
+        "date": "2026-03-10",
+        "canteen": "一食堂",
+        "order_rating": 4.0666666667,
+        "order_count": 19,
+        "feedback_score": 4.0666666667,
+        "composite_score": 4.07
+      },
+      {
+        "date": "2026-03-10",
+        "canteen": "三食堂",
+        "order_rating": 4.0391304348,
+        "order_count": 12,
+        "feedback_score": 4.0391304348,
+        "composite_score": 4.04
+      },
+      {
+        "date": "2026-03-10",
+        "canteen": "二食堂",
+        "order_rating": 3.9333333333,
+        "order_count": 13,
+        "feedback_score": 3.9333333333,
+        "composite_score": 3.93
+      },
+      {
+        "date": "2026-03-11",
+        "canteen": "一食堂",
+        "order_rating": 3.9649122807,
+        "order_count": 34,
+        "feedback_score": 3.9649122807,
+        "composite_score": 3.96
+      },
+      {
+        "date": "2026-03-11",
+        "canteen": "三食堂",
+        "order_rating": 4.0642857143,
+        "order_count": 19,
+        "feedback_score": 4.0642857143,
+        "composite_score": 4.06
+      },
+      {
+        "date": "2026-03-11",
+        "canteen": "二食堂",
+        "order_rating": 4.0032258065,
+        "order_count": 20,
+        "feedback_score": 4.0032258065,
+        "composite_score": 4.0
+      },
+      {
+        "date": "2026-03-12",
+        "canteen": "一食堂",
+        "order_rating": 4.0162162162,
+        "order_count": 23,
+        "feedback_score": 4.0162162162,
+        "composite_score": 4.02
+      },
+      {
+        "date": "2026-03-12",
+        "canteen": "三食堂",
+        "order_rating": 3.8333333333,
+        "order_count": 15,
+        "feedback_score": 3.8333333333,
+        "composite_score": 3.83
+      },
+      {
+        "date": "2026-03-12",
+        "canteen": "二食堂",
+        "order_rating": 4.1357142857,
+        "order_count": 11,
+        "feedback_score": 4.1357142857,
+        "composite_score": 4.14
+      },
+      {
+        "date": "2026-03-13",
+        "canteen": "一食堂",
+        "order_rating": 4.0,
+        "order_count": 22,
+        "feedback_score": 4.0,
+        "composite_score": 4.0
+      },
+      {
+        "date": "2026-03-13",
+        "canteen": "三食堂",
+        "order_rating": 3.7846153846,
+        "order_count": 9,
+        "feedback_score": 3.7846153846,
+        "composite_score": 3.78
+      },
+      {
+        "date": "2026-03-13",
+        "canteen": "二食堂",
+        "order_rating": 3.9454545455,
+        "order_count": 20,
+        "feedback_score": 3.9454545455,
+        "composite_score": 3.95
+      },
+      {
+        "date": "2026-03-14",
+        "canteen": "一食堂",
+        "order_rating": 4.0307692308,
+        "order_count": 27,
+        "feedback_score": 4.0307692308,
+        "composite_score": 4.03
+      },
+      {
+        "date": "2026-03-14",
+        "canteen": "三食堂",
+        "order_rating": 3.9631578947,
+        "order_count": 12,
+        "feedback_score": 3.9631578947,
+        "composite_score": 3.96
+      },
+      {
+        "date": "2026-03-14",
+        "canteen": "二食堂",
+        "order_rating": 3.9363636364,
+        "order_count": 16,
+        "feedback_score": 3.9363636364,
+        "composite_score": 3.94
+      },
+      {
+        "date": "2026-03-15",
+        "canteen": "一食堂",
+        "order_rating": 4.0285714286,
+        "order_count": 13,
+        "feedback_score": 4.0285714286,
+        "composite_score": 4.03
+      },
+      {
+        "date": "2026-03-15",
+        "canteen": "三食堂",
+        "order_rating": 4.085,
+        "order_count": 10,
+        "feedback_score": 4.085,
+        "composite_score": 4.08
+      },
+      {
+        "date": "2026-03-15",
+        "canteen": "二食堂",
+        "order_rating": 3.9444444444,
+        "order_count": 12,
+        "feedback_score": 3.9444444444,
+        "composite_score": 3.94
+      },
+      {
+        "date": "2026-03-16",
+        "canteen": "一食堂",
+        "order_rating": 4.0947368421,
+        "order_count": 23,
+        "feedback_score": 4.0947368421,
+        "composite_score": 4.09
+      },
+      {
+        "date": "2026-03-16",
+        "canteen": "三食堂",
+        "order_rating": 4.0931034483,
+        "order_count": 17,
+        "feedback_score": 4.0931034483,
+        "composite_score": 4.09
+      },
+      {
+        "date": "2026-03-16",
+        "canteen": "二食堂",
+        "order_rating": 4.0448275862,
+        "order_count": 17,
+        "feedback_score": 4.0448275862,
+        "composite_score": 4.04
+      },
+      {
+        "date": "2026-03-17",
+        "canteen": "一食堂",
+        "order_rating": 3.8548387097,
+        "order_count": 18,
+        "feedback_score": 3.8548387097,
+        "composite_score": 3.85
+      },
+      {
+        "date": "2026-03-17",
+        "canteen": "三食堂",
+        "order_rating": 4.05,
+        "order_count": 10,
+        "feedback_score": 4.05,
+        "composite_score": 4.05
+      },
+      {
+        "date": "2026-03-17",
+        "canteen": "二食堂",
+        "order_rating": 4.1212121212,
+        "order_count": 22,
+        "feedback_score": 4.1212121212,
+        "composite_score": 4.12
+      },
+      {
+        "date": "2026-03-18",
+        "canteen": "一食堂",
+        "order_rating": 3.9794871795,
+        "order_count": 22,
+        "feedback_score": 3.9794871795,
+        "composite_score": 3.98
+      },
+      {
+        "date": "2026-03-18",
+        "canteen": "三食堂",
+        "order_rating": 4.0066666667,
+        "order_count": 10,
+        "feedback_score": 4.0066666667,
+        "composite_score": 4.01
+      },
+      {
+        "date": "2026-03-18",
+        "canteen": "二食堂",
+        "order_rating": 4.0967741935,
+        "order_count": 20,
+        "feedback_score": 4.0967741935,
+        "composite_score": 4.1
+      },
+      {
+        "date": "2026-03-19",
+        "canteen": "一食堂",
+        "order_rating": 4.0620689655,
+        "order_count": 19,
+        "feedback_score": 4.0620689655,
+        "composite_score": 4.06
+      },
+      {
+        "date": "2026-03-19",
+        "canteen": "三食堂",
+        "order_rating": 3.8733333333,
+        "order_count": 10,
+        "feedback_score": 3.8733333333,
+        "composite_score": 3.87
+      },
+      {
+        "date": "2026-03-19",
+        "canteen": "二食堂",
+        "order_rating": 4.0780487805,
+        "order_count": 24,
+        "feedback_score": 4.0780487805,
+        "composite_score": 4.08
+      },
+      {
+        "date": "2026-03-20",
+        "canteen": "一食堂",
+        "order_rating": 3.965625,
+        "order_count": 21,
+        "feedback_score": 3.965625,
+        "composite_score": 3.97
+      },
+      {
+        "date": "2026-03-20",
+        "canteen": "三食堂",
+        "order_rating": 3.9666666667,
+        "order_count": 12,
+        "feedback_score": 3.9666666667,
+        "composite_score": 3.97
+      },
+      {
+        "date": "2026-03-20",
+        "canteen": "二食堂",
+        "order_rating": 4.0780487805,
+        "order_count": 29,
+        "feedback_score": 4.0780487805,
+        "composite_score": 4.08
+      },
+      {
+        "date": "2026-03-21",
+        "canteen": "一食堂",
+        "order_rating": 4.0482758621,
+        "order_count": 17,
+        "feedback_score": 4.0482758621,
+        "composite_score": 4.05
+      },
+      {
+        "date": "2026-03-21",
+        "canteen": "三食堂",
+        "order_rating": 4.0466666667,
+        "order_count": 10,
+        "feedback_score": 4.0466666667,
+        "composite_score": 4.05
+      },
+      {
+        "date": "2026-03-21",
+        "canteen": "二食堂",
+        "order_rating": 4.024,
+        "order_count": 17,
+        "feedback_score": 4.024,
+        "composite_score": 4.02
+      },
+      {
+        "date": "2026-03-22",
+        "canteen": "一食堂",
+        "order_rating": 3.9720930233,
+        "order_count": 30,
+        "feedback_score": 3.9720930233,
+        "composite_score": 3.97
+      },
+      {
+        "date": "2026-03-22",
+        "canteen": "三食堂",
+        "order_rating": 3.925,
+        "order_count": 11,
+        "feedback_score": 3.925,
+        "composite_score": 3.92
+      },
+      {
+        "date": "2026-03-22",
+        "canteen": "二食堂",
+        "order_rating": 3.9925925926,
+        "order_count": 20,
+        "feedback_score": 3.9925925926,
+        "composite_score": 3.99
+      },
+      {
+        "date": "2026-03-23",
+        "canteen": "一食堂",
+        "order_rating": 3.971875,
+        "order_count": 23,
+        "feedback_score": 3.971875,
+        "composite_score": 3.97
+      },
+      {
+        "date": "2026-03-23",
+        "canteen": "三食堂",
+        "order_rating": 4.0052631579,
+        "order_count": 13,
+        "feedback_score": 4.0052631579,
+        "composite_score": 4.01
+      },
+      {
+        "date": "2026-03-23",
+        "canteen": "二食堂",
+        "order_rating": 4.0894736842,
+        "order_count": 14,
+        "feedback_score": 4.0894736842,
+        "composite_score": 4.09
+      },
+      {
+        "date": "2026-03-24",
+        "canteen": "一食堂",
+        "order_rating": 3.9454545455,
+        "order_count": 25,
+        "feedback_score": 3.9454545455,
+        "composite_score": 3.95
+      },
+      {
+        "date": "2026-03-24",
+        "canteen": "三食堂",
+        "order_rating": 4.0291666667,
+        "order_count": 13,
+        "feedback_score": 4.0291666667,
+        "composite_score": 4.03
+      },
+      {
+        "date": "2026-03-24",
+        "canteen": "二食堂",
+        "order_rating": 3.946875,
+        "order_count": 20,
+        "feedback_score": 3.946875,
+        "composite_score": 3.95
+      },
+      {
+        "date": "2026-03-25",
+        "canteen": "一食堂",
+        "order_rating": 3.95,
+        "order_count": 15,
+        "feedback_score": 3.95,
+        "composite_score": 3.95
+      },
+      {
+        "date": "2026-03-25",
+        "canteen": "三食堂",
+        "order_rating": 4.0466666667,
+        "order_count": 11,
+        "feedback_score": 4.0466666667,
+        "composite_score": 4.05
+      },
+      {
+        "date": "2026-03-25",
+        "canteen": "二食堂",
+        "order_rating": 3.9764705882,
+        "order_count": 12,
+        "feedback_score": 3.9764705882,
+        "composite_score": 3.98
+      },
+      {
+        "date": "2026-03-26",
+        "canteen": "一食堂",
+        "order_rating": 3.9951219512,
+        "order_count": 30,
+        "feedback_score": 3.9951219512,
+        "composite_score": 4.0
+      },
+      {
+        "date": "2026-03-26",
+        "canteen": "三食堂",
+        "order_rating": 3.7785714286,
+        "order_count": 11,
+        "feedback_score": 3.7785714286,
+        "composite_score": 3.78
+      },
+      {
+        "date": "2026-03-26",
+        "canteen": "二食堂",
+        "order_rating": 4.0272727273,
+        "order_count": 22,
+        "feedback_score": 4.0272727273,
+        "composite_score": 4.03
+      },
+      {
+        "date": "2026-03-27",
+        "canteen": "一食堂",
+        "order_rating": 3.9297297297,
+        "order_count": 22,
+        "feedback_score": 3.9297297297,
+        "composite_score": 3.93
+      },
+      {
+        "date": "2026-03-27",
+        "canteen": "三食堂",
+        "order_rating": 4.225,
+        "order_count": 17,
+        "feedback_score": 4.225,
+        "composite_score": 4.23
+      },
+      {
+        "date": "2026-03-27",
+        "canteen": "二食堂",
+        "order_rating": 4.0703703704,
+        "order_count": 18,
+        "feedback_score": 4.0703703704,
+        "composite_score": 4.07
+      },
+      {
+        "date": "2026-03-28",
+        "canteen": "一食堂",
+        "order_rating": 4.096969697,
+        "order_count": 18,
+        "feedback_score": 4.096969697,
+        "composite_score": 4.1
+      },
+      {
+        "date": "2026-03-28",
+        "canteen": "三食堂",
+        "order_rating": 3.9954545455,
+        "order_count": 14,
+        "feedback_score": 3.9954545455,
+        "composite_score": 4.0
+      },
+      {
+        "date": "2026-03-28",
+        "canteen": "二食堂",
+        "order_rating": 4.048,
+        "order_count": 17,
+        "feedback_score": 4.048,
+        "composite_score": 4.05
+      },
+      {
+        "date": "2026-03-29",
+        "canteen": "一食堂",
+        "order_rating": 3.978125,
+        "order_count": 22,
+        "feedback_score": 3.978125,
+        "composite_score": 3.98
+      },
+      {
+        "date": "2026-03-29",
+        "canteen": "三食堂",
+        "order_rating": 4.0444444444,
+        "order_count": 20,
+        "feedback_score": 4.0444444444,
+        "composite_score": 4.04
+      },
+      {
+        "date": "2026-03-29",
+        "canteen": "二食堂",
+        "order_rating": 3.9551724138,
+        "order_count": 19,
+        "feedback_score": 3.9551724138,
+        "composite_score": 3.96
+      },
+      {
+        "date": "2026-03-30",
+        "canteen": "一食堂",
+        "order_rating": 4.02,
+        "order_count": 23,
+        "feedback_score": 4.02,
+        "composite_score": 4.02
+      },
+      {
+        "date": "2026-03-30",
+        "canteen": "三食堂",
+        "order_rating": 3.98,
+        "order_count": 12,
+        "feedback_score": 3.98,
+        "composite_score": 3.98
+      },
+      {
+        "date": "2026-03-30",
+        "canteen": "二食堂",
+        "order_rating": 4.024137931,
+        "order_count": 20,
+        "feedback_score": 4.024137931,
+        "composite_score": 4.02
+      },
+      {
+        "date": "2026-03-31",
+        "canteen": "一食堂",
+        "order_rating": 4.0744680851,
+        "order_count": 33,
+        "feedback_score": 4.0744680851,
+        "composite_score": 4.07
+      },
+      {
+        "date": "2026-03-31",
+        "canteen": "三食堂",
+        "order_rating": 4.1,
+        "order_count": 16,
+        "feedback_score": 4.1,
+        "composite_score": 4.1
+      },
+      {
+        "date": "2026-03-31",
+        "canteen": "二食堂",
+        "order_rating": 3.9487804878,
+        "order_count": 26,
+        "feedback_score": 3.9487804878,
+        "composite_score": 3.95
+      },
+      {
+        "date": "2026-04-01",
+        "canteen": "一食堂",
+        "order_rating": 4.0096774194,
+        "order_count": 38,
+        "feedback_score": 4.0096774194,
+        "composite_score": 4.01
+      },
+      {
+        "date": "2026-04-01",
+        "canteen": "三食堂",
+        "order_rating": 3.8705882353,
+        "order_count": 11,
+        "feedback_score": 3.8705882353,
+        "composite_score": 3.87
+      },
+      {
+        "date": "2026-04-01",
+        "canteen": "二食堂",
+        "order_rating": 4.0090909091,
+        "order_count": 13,
+        "feedback_score": 4.0090909091,
+        "composite_score": 4.01
+      },
+      {
+        "date": "2026-04-02",
+        "canteen": "一食堂",
+        "order_rating": 4.0153846154,
+        "order_count": 25,
+        "feedback_score": 4.0153846154,
+        "composite_score": 4.02
+      },
+      {
+        "date": "2026-04-02",
+        "canteen": "三食堂",
+        "order_rating": 3.9608695652,
+        "order_count": 15,
+        "feedback_score": 3.9608695652,
+        "composite_score": 3.96
+      },
+      {
+        "date": "2026-04-02",
+        "canteen": "二食堂",
+        "order_rating": 3.9133333333,
+        "order_count": 17,
+        "feedback_score": 3.9133333333,
+        "composite_score": 3.91
+      },
+      {
+        "date": "2026-04-03",
+        "canteen": "一食堂",
+        "order_rating": 4.1703703704,
+        "order_count": 15,
+        "feedback_score": 4.1703703704,
+        "composite_score": 4.17
+      },
+      {
+        "date": "2026-04-03",
+        "canteen": "三食堂",
+        "order_rating": 3.8777777778,
+        "order_count": 7,
+        "feedback_score": 3.8777777778,
+        "composite_score": 3.88
+      },
+      {
+        "date": "2026-04-03",
+        "canteen": "二食堂",
+        "order_rating": 3.8961538462,
+        "order_count": 18,
+        "feedback_score": 3.8961538462,
+        "composite_score": 3.9
+      },
+      {
+        "date": "2026-04-04",
+        "canteen": "一食堂",
+        "order_rating": 4.0135135135,
+        "order_count": 23,
+        "feedback_score": 4.0135135135,
+        "composite_score": 4.01
+      },
+      {
+        "date": "2026-04-04",
+        "canteen": "三食堂",
+        "order_rating": 4.4157894737,
+        "order_count": 14,
+        "feedback_score": 4.4157894737,
+        "composite_score": 4.42
+      },
+      {
+        "date": "2026-04-04",
+        "canteen": "二食堂",
+        "order_rating": 4.05,
+        "order_count": 11,
+        "feedback_score": 4.05,
+        "composite_score": 4.05
+      },
+      {
+        "date": "2026-04-05",
+        "canteen": "一食堂",
+        "order_rating": 4.043902439,
+        "order_count": 30,
+        "feedback_score": 4.043902439,
+        "composite_score": 4.04
+      },
+      {
+        "date": "2026-04-05",
+        "canteen": "三食堂",
+        "order_rating": 3.912,
+        "order_count": 14,
+        "feedback_score": 3.912,
+        "composite_score": 3.91
+      },
+      {
+        "date": "2026-04-05",
+        "canteen": "二食堂",
+        "order_rating": 4.0870967742,
+        "order_count": 19,
+        "feedback_score": 4.0870967742,
+        "composite_score": 4.09
+      },
+      {
+        "date": "2026-04-06",
+        "canteen": "一食堂",
+        "order_rating": 3.9761904762,
+        "order_count": 16,
+        "feedback_score": 3.9761904762,
+        "composite_score": 3.98
+      },
+      {
+        "date": "2026-04-06",
+        "canteen": "三食堂",
+        "order_rating": 4.1285714286,
+        "order_count": 13,
+        "feedback_score": 4.1285714286,
+        "composite_score": 4.13
+      },
+      {
+        "date": "2026-04-06",
+        "canteen": "二食堂",
+        "order_rating": 4.0074074074,
+        "order_count": 17,
+        "feedback_score": 4.0074074074,
+        "composite_score": 4.01
+      },
+      {
+        "date": "2026-04-07",
+        "canteen": "一食堂",
+        "order_rating": 4.1103448276,
+        "order_count": 18,
+        "feedback_score": 4.1103448276,
+        "composite_score": 4.11
+      },
+      {
+        "date": "2026-04-07",
+        "canteen": "三食堂",
+        "order_rating": 3.9882352941,
+        "order_count": 22,
+        "feedback_score": 3.9882352941,
+        "composite_score": 3.99
+      },
+      {
+        "date": "2026-04-07",
+        "canteen": "二食堂",
+        "order_rating": 3.9782608696,
+        "order_count": 15,
+        "feedback_score": 3.9782608696,
+        "composite_score": 3.98
+      },
+      {
+        "date": "2026-04-08",
+        "canteen": "一食堂",
+        "order_rating": 4.0212121212,
+        "order_count": 22,
+        "feedback_score": 4.0212121212,
+        "composite_score": 4.02
+      },
+      {
+        "date": "2026-04-08",
+        "canteen": "三食堂",
+        "order_rating": 4.14,
+        "order_count": 17,
+        "feedback_score": 4.14,
+        "composite_score": 4.14
+      },
+      {
+        "date": "2026-04-08",
+        "canteen": "二食堂",
+        "order_rating": 3.9793103448,
+        "order_count": 18,
+        "feedback_score": 3.9793103448,
+        "composite_score": 3.98
+      },
+      {
+        "date": "2026-04-09",
+        "canteen": "一食堂",
+        "order_rating": 4.019047619,
+        "order_count": 15,
+        "feedback_score": 4.019047619,
+        "composite_score": 4.02
+      },
+      {
+        "date": "2026-04-09",
+        "canteen": "三食堂",
+        "order_rating": 4.0375,
+        "order_count": 14,
+        "feedback_score": 4.0375,
+        "composite_score": 4.04
+      },
+      {
+        "date": "2026-04-09",
+        "canteen": "二食堂",
+        "order_rating": 4.1178571429,
+        "order_count": 17,
+        "feedback_score": 4.1178571429,
+        "composite_score": 4.12
+      },
+      {
+        "date": "2026-04-10",
+        "canteen": "一食堂",
+        "order_rating": 4.0181818182,
+        "order_count": 14,
+        "feedback_score": 4.0181818182,
+        "composite_score": 4.02
+      },
+      {
+        "date": "2026-04-10",
+        "canteen": "三食堂",
+        "order_rating": 3.9210526316,
+        "order_count": 14,
+        "feedback_score": 3.9210526316,
+        "composite_score": 3.92
+      },
+      {
+        "date": "2026-04-10",
+        "canteen": "二食堂",
+        "order_rating": 4.1555555556,
+        "order_count": 10,
+        "feedback_score": 4.1555555556,
+        "composite_score": 4.16
+      },
+      {
+        "date": "2026-04-11",
+        "canteen": "一食堂",
+        "order_rating": 4.0595238095,
+        "order_count": 28,
+        "feedback_score": 4.0595238095,
+        "composite_score": 4.06
+      },
+      {
+        "date": "2026-04-11",
+        "canteen": "三食堂",
+        "order_rating": 4.1235294118,
+        "order_count": 14,
+        "feedback_score": 4.1235294118,
+        "composite_score": 4.12
+      },
+      {
+        "date": "2026-04-11",
+        "canteen": "二食堂",
+        "order_rating": 4.0344827586,
+        "order_count": 21,
+        "feedback_score": 4.0344827586,
+        "composite_score": 4.03
+      },
+      {
+        "date": "2026-04-12",
+        "canteen": "一食堂",
+        "order_rating": 4.0214285714,
+        "order_count": 18,
+        "feedback_score": 4.0214285714,
+        "composite_score": 4.02
+      },
+      {
+        "date": "2026-04-12",
+        "canteen": "三食堂",
+        "order_rating": 4.2333333333,
+        "order_count": 9,
+        "feedback_score": 4.2333333333,
+        "composite_score": 4.23
+      },
+      {
+        "date": "2026-04-12",
+        "canteen": "二食堂",
+        "order_rating": 4.0333333333,
+        "order_count": 20,
+        "feedback_score": 4.0333333333,
+        "composite_score": 4.03
+      },
+      {
+        "date": "2026-04-13",
+        "canteen": "一食堂",
+        "order_rating": 4.056097561,
+        "order_count": 28,
+        "feedback_score": 4.056097561,
+        "composite_score": 4.06
+      },
+      {
+        "date": "2026-04-13",
+        "canteen": "三食堂",
+        "order_rating": 4.0466666667,
+        "order_count": 13,
+        "feedback_score": 4.0466666667,
+        "composite_score": 4.05
+      },
+      {
+        "date": "2026-04-13",
+        "canteen": "二食堂",
+        "order_rating": 4.0545454545,
+        "order_count": 14,
+        "feedback_score": 4.0545454545,
+        "composite_score": 4.05
+      },
+      {
+        "date": "2026-04-14",
+        "canteen": "一食堂",
+        "order_rating": 3.9611111111,
+        "order_count": 23,
+        "feedback_score": 3.9611111111,
+        "composite_score": 3.96
+      },
+      {
+        "date": "2026-04-14",
+        "canteen": "三食堂",
+        "order_rating": 4.14375,
+        "order_count": 10,
+        "feedback_score": 4.14375,
+        "composite_score": 4.14
+      },
+      {
+        "date": "2026-04-14",
+        "canteen": "二食堂",
+        "order_rating": 4.0148148148,
+        "order_count": 18,
+        "feedback_score": 4.0148148148,
+        "composite_score": 4.01
+      },
+      {
+        "date": "2026-04-15",
+        "canteen": "一食堂",
+        "order_rating": 3.99375,
+        "order_count": 25,
+        "feedback_score": 3.99375,
+        "composite_score": 3.99
+      },
+      {
+        "date": "2026-04-15",
+        "canteen": "三食堂",
+        "order_rating": 4.05,
+        "order_count": 6,
+        "feedback_score": 4.05,
+        "composite_score": 4.05
+      },
+      {
+        "date": "2026-04-15",
+        "canteen": "二食堂",
+        "order_rating": 3.8074074074,
+        "order_count": 17,
+        "feedback_score": 3.8074074074,
+        "composite_score": 3.81
+      },
+      {
+        "date": "2026-04-16",
+        "canteen": "一食堂",
+        "order_rating": 4.1333333333,
+        "order_count": 23,
+        "feedback_score": 4.1333333333,
+        "composite_score": 4.13
+      },
+      {
+        "date": "2026-04-16",
+        "canteen": "三食堂",
+        "order_rating": 4.1608695652,
+        "order_count": 14,
+        "feedback_score": 4.1608695652,
+        "composite_score": 4.16
+      },
+      {
+        "date": "2026-04-16",
+        "canteen": "二食堂",
+        "order_rating": 3.9814814815,
+        "order_count": 18,
+        "feedback_score": 3.9814814815,
+        "composite_score": 3.98
+      }
+    ],
+    "efficiencyRanking": [
+      {
+        "canteen": "一食堂",
+        "sales": 24589.9,
+        "orders": 1679,
+        "students": 483,
+        "rating": 4.018125,
+        "utilization_index": 49.41,
+        "pred_total": 224.9,
+        "prep_total": 257,
+        "sales_per_student": 50.91,
+        "orders_per_student": 3.48,
+        "prep_gap": 32.1,
+        "efficiency_score": 94.1
+      },
+      {
+        "canteen": "二食堂",
+        "sales": 19388.0,
+        "orders": 1339,
+        "students": 463,
+        "rating": 4.0180466039,
+        "utilization_index": 43.4,
+        "pred_total": 14.4,
+        "prep_total": 15,
+        "sales_per_student": 41.87,
+        "orders_per_student": 2.89,
+        "prep_gap": 0.6,
+        "efficiency_score": 83.4
+      },
+      {
+        "canteen": "三食堂",
+        "sales": 14285.3,
+        "orders": 982,
+        "students": 430,
+        "rating": 4.023160027,
+        "utilization_index": 37.38,
+        "pred_total": 56.4,
+        "prep_total": 62,
+        "sales_per_student": 33.22,
+        "orders_per_student": 2.28,
+        "prep_gap": 5.6,
+        "efficiency_score": 72.9
+      }
+    ],
+    "riskOverview": [
+      {
+        "canteen": "一食堂",
+        "shortage_count": 34,
+        "waste_count": 19,
+        "pred_total": 224.9,
+        "prep_total": 257,
+        "prep_ratio": 1.14,
+        "risk_level": "高"
+      },
+      {
+        "canteen": "三食堂",
+        "shortage_count": 2,
+        "waste_count": 17,
+        "pred_total": 56.4,
+        "prep_total": 62,
+        "prep_ratio": 1.1,
+        "risk_level": "高"
+      },
+      {
+        "canteen": "二食堂",
+        "shortage_count": 0,
+        "waste_count": 4,
+        "pred_total": 14.4,
+        "prep_total": 15,
+        "prep_ratio": 1.04,
+        "risk_level": "高"
+      }
+    ],
+    "categoryStructure": [
+      {
+        "canteen": "一食堂",
+        "category": "主食",
+        "sales": 12178.5,
+        "quantity": 1240,
+        "canteen_total": 24589.9,
+        "sales_ratio": 0.4953
+      },
+      {
+        "canteen": "一食堂",
+        "category": "热菜",
+        "sales": 5446.6,
+        "quantity": 503,
+        "canteen_total": 24589.9,
+        "sales_ratio": 0.2215
+      },
+      {
+        "canteen": "一食堂",
+        "category": "饮品",
+        "sales": 3152.3,
+        "quantity": 559,
+        "canteen_total": 24589.9,
+        "sales_ratio": 0.1282
+      },
+      {
+        "canteen": "一食堂",
+        "category": "汤品",
+        "sales": 1345.7,
+        "quantity": 312,
+        "canteen_total": 24589.9,
+        "sales_ratio": 0.0547
+      },
+      {
+        "canteen": "一食堂",
+        "category": "轻食",
+        "sales": 1244.1,
+        "quantity": 104,
+        "canteen_total": 24589.9,
+        "sales_ratio": 0.0506
+      },
+      {
+        "canteen": "一食堂",
+        "category": "小吃",
+        "sales": 1222.7,
+        "quantity": 111,
+        "canteen_total": 24589.9,
+        "sales_ratio": 0.0497
+      },
+      {
+        "canteen": "三食堂",
+        "category": "主食",
+        "sales": 6971.6,
+        "quantity": 692,
+        "canteen_total": 14285.3,
+        "sales_ratio": 0.488
+      },
+      {
+        "canteen": "三食堂",
+        "category": "热菜",
+        "sales": 3263.3,
+        "quantity": 301,
+        "canteen_total": 14285.3,
+        "sales_ratio": 0.2284
+      },
+      {
+        "canteen": "三食堂",
+        "category": "饮品",
+        "sales": 1777.1,
+        "quantity": 326,
+        "canteen_total": 14285.3,
+        "sales_ratio": 0.1244
+      },
+      {
+        "canteen": "三食堂",
+        "category": "小吃",
+        "sales": 823.7,
+        "quantity": 75,
+        "canteen_total": 14285.3,
+        "sales_ratio": 0.0577
+      },
+      {
+        "canteen": "三食堂",
+        "category": "汤品",
+        "sales": 805.9,
+        "quantity": 188,
+        "canteen_total": 14285.3,
+        "sales_ratio": 0.0564
+      },
+      {
+        "canteen": "三食堂",
+        "category": "轻食",
+        "sales": 643.7,
+        "quantity": 54,
+        "canteen_total": 14285.3,
+        "sales_ratio": 0.0451
+      },
+      {
+        "canteen": "二食堂",
+        "category": "主食",
+        "sales": 9947.1,
+        "quantity": 986,
+        "canteen_total": 19388.0,
+        "sales_ratio": 0.5131
+      },
+      {
+        "canteen": "二食堂",
+        "category": "热菜",
+        "sales": 4144.6,
+        "quantity": 393,
+        "canteen_total": 19388.0,
+        "sales_ratio": 0.2138
+      },
+      {
+        "canteen": "二食堂",
+        "category": "饮品",
+        "sales": 2277.0,
+        "quantity": 406,
+        "canteen_total": 19388.0,
+        "sales_ratio": 0.1174
+      },
+      {
+        "canteen": "二食堂",
+        "category": "汤品",
+        "sales": 1078.1,
+        "quantity": 249,
+        "canteen_total": 19388.0,
+        "sales_ratio": 0.0556
+      },
+      {
+        "canteen": "二食堂",
+        "category": "轻食",
+        "sales": 1060.6,
+        "quantity": 88,
+        "canteen_total": 19388.0,
+        "sales_ratio": 0.0547
+      },
+      {
+        "canteen": "二食堂",
+        "category": "小吃",
+        "sales": 880.6,
+        "quantity": 80,
+        "canteen_total": 19388.0,
+        "sales_ratio": 0.0454
+      }
+    ],
+    "decisionActions": [
+      {
+        "canteen": "一食堂",
+        "priority": "高",
+        "theme": "缺货风险",
+        "advice": "一食堂 未来一周缺货风险较高，建议优先增加 主食 类备餐和高峰时段人手。"
+      },
+      {
+        "canteen": "一食堂",
+        "priority": "中",
+        "theme": "浪费风险",
+        "advice": "一食堂 备餐冗余偏高，建议减少低需求菜品预制量，并搭配限时促销。"
+      },
+      {
+        "canteen": "三食堂",
+        "priority": "中",
+        "theme": "浪费风险",
+        "advice": "三食堂 备餐冗余偏高，建议减少低需求菜品预制量，并搭配限时促销。"
+      },
+      {
+        "canteen": "二食堂",
+        "priority": "中",
+        "theme": "浪费风险",
+        "advice": "二食堂 备餐冗余偏高，建议减少低需求菜品预制量，并搭配限时促销。"
+      },
+      {
+        "canteen": "一食堂",
+        "priority": "低",
+        "theme": "示范推广",
+        "advice": "一食堂 综合效率较高，可复用其排班、备餐和热销菜品策略。"
+      }
+    ],
+    "reportSections": {
+      "daily": {
+        "date": "2026-04-16",
+        "sales": 886.9,
+        "orders": 55
+      },
+      "weekly": [
+        {
+          "week": "2026-W12",
+          "sales": 5502.9,
+          "orders": 376
+        },
+        {
+          "week": "2026-W13",
+          "sales": 6021.9,
+          "orders": 398
+        },
+        {
+          "week": "2026-W14",
+          "sales": 5459.2,
+          "orders": 368
+        },
+        {
+          "week": "2026-W15",
+          "sales": 3742.0,
+          "orders": 256
+        }
+      ],
+      "monthly": {
+        "best_canteen": "一食堂",
+        "best_efficiency_score": 94.1,
+        "highest_risk_canteen": "一食堂",
+        "highest_risk_level": "高"
+      }
+    },
+    "alertCenter": [
+      {
+        "severity": "高",
+        "category": "备餐风险异常",
+        "entity": "一食堂",
+        "signal": "缺货风险菜品过多",
+        "change": "共有 34 个菜品处于高缺货风险",
+        "advice": "建议立即提高高峰热门菜品安全备餐系数，并优先调配备餐人手。"
+      },
+      {
+        "severity": "高",
+        "category": "拥挤度异常",
+        "entity": "三食堂（早餐）",
+        "signal": "当前高峰压力超出常态",
+        "change": "订单量达到历史均值的 222%",
+        "advice": "建议启动错峰引导、开放备用窗口或临时增加服务人员。"
+      },
+      {
+        "severity": "高",
+        "category": "拥挤度异常",
+        "entity": "二食堂（夜宵）",
+        "signal": "当前高峰压力超出常态",
+        "change": "订单量达到历史均值的 200%",
+        "advice": "建议启动错峰引导、开放备用窗口或临时增加服务人员。"
+      },
+      {
+        "severity": "高",
+        "category": "窗口订单异常",
+        "entity": "一食堂 - 夜宵窗口（夜宵）",
+        "signal": "订单量明显低于常态",
+        "change": "仅为历史均值的 40%",
+        "advice": "建议检查窗口营业状态、菜品供应是否异常，必要时调整窗口导流。"
+      },
+      {
+        "severity": "高",
+        "category": "窗口订单异常",
+        "entity": "一食堂 - 盖饭窗口（午餐）",
+        "signal": "订单量明显低于常态",
+        "change": "仅为历史均值的 54%",
+        "advice": "建议检查窗口营业状态、菜品供应是否异常，必要时调整窗口导流。"
+      },
+      {
+        "severity": "高",
+        "category": "窗口订单异常",
+        "entity": "一食堂 - 面食窗口（早餐）",
+        "signal": "订单量明显低于常态",
+        "change": "仅为历史均值的 38%",
+        "advice": "建议检查窗口营业状态、菜品供应是否异常，必要时调整窗口导流。"
+      },
+      {
+        "severity": "高",
+        "category": "窗口订单异常",
+        "entity": "三食堂 - 特色窗口（晚餐）",
+        "signal": "订单量明显低于常态",
+        "change": "仅为历史均值的 33%",
+        "advice": "建议检查窗口营业状态、菜品供应是否异常，必要时调整窗口导流。"
+      },
+      {
+        "severity": "高",
+        "category": "窗口订单异常",
+        "entity": "三食堂 - 面食窗口（午餐）",
+        "signal": "订单量明显低于常态",
+        "change": "仅为历史均值的 44%",
+        "advice": "建议检查窗口营业状态、菜品供应是否异常，必要时调整窗口导流。"
+      },
+      {
+        "severity": "高",
+        "category": "窗口订单异常",
+        "entity": "二食堂 - 快餐窗口（午餐）",
+        "signal": "订单量明显低于常态",
+        "change": "仅为历史均值的 38%",
+        "advice": "建议检查窗口营业状态、菜品供应是否异常，必要时调整窗口导流。"
+      },
+      {
+        "severity": "中",
+        "category": "备餐风险异常",
+        "entity": "一食堂",
+        "signal": "浪费风险菜品过多",
+        "change": "共有 19 个菜品处于高浪费风险",
+        "advice": "建议减少低需求菜品预制量，并测试限时优惠和套餐出清策略。"
+      },
+      {
+        "severity": "中",
+        "category": "备餐风险异常",
+        "entity": "三食堂",
+        "signal": "浪费风险菜品过多",
+        "change": "共有 17 个菜品处于高浪费风险",
+        "advice": "建议减少低需求菜品预制量，并测试限时优惠和套餐出清策略。"
+      },
+      {
+        "severity": "中",
+        "category": "备餐风险异常",
+        "entity": "二食堂",
+        "signal": "浪费风险菜品过多",
+        "change": "共有 4 个菜品处于高浪费风险",
+        "advice": "建议减少低需求菜品预制量，并测试限时优惠和套餐出清策略。"
+      },
+      {
+        "severity": "中",
+        "category": "窗口订单异常",
+        "entity": "一食堂 - 面食窗口（午餐）",
+        "signal": "订单量异常偏高",
+        "change": "达到历史均值的 206%",
+        "advice": "建议增加高峰人手和备餐，防止排队时间继续拉长。"
+      },
+      {
+        "severity": "中",
+        "category": "窗口订单异常",
+        "entity": "三食堂 - 小吃窗口（晚餐）",
+        "signal": "订单量异常偏高",
+        "change": "达到历史均值的 240%",
+        "advice": "建议增加高峰人手和备餐，防止排队时间继续拉长。"
+      },
+      {
+        "severity": "中",
+        "category": "窗口订单异常",
+        "entity": "三食堂 - 早餐窗口（早餐）",
+        "signal": "订单量异常偏高",
+        "change": "达到历史均值的 286%",
+        "advice": "建议增加高峰人手和备餐，防止排队时间继续拉长。"
+      },
+      {
+        "severity": "中",
+        "category": "窗口订单异常",
+        "entity": "三食堂 - 盖饭窗口（午餐）",
+        "signal": "订单量异常偏高",
+        "change": "达到历史均值的 300%",
+        "advice": "建议增加高峰人手和备餐，防止排队时间继续拉长。"
+      },
+      {
+        "severity": "中",
+        "category": "窗口订单异常",
+        "entity": "三食堂 - 面食窗口（早餐）",
+        "signal": "订单量异常偏高",
+        "change": "达到历史均值的 200%",
+        "advice": "建议增加高峰人手和备餐，防止排队时间继续拉长。"
+      },
+      {
+        "severity": "中",
+        "category": "窗口订单异常",
+        "entity": "三食堂 - 饮品窗口（晚餐）",
+        "signal": "订单量异常偏高",
+        "change": "达到历史均值的 188%",
+        "advice": "建议增加高峰人手和备餐，防止排队时间继续拉长。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "一食堂 - 水果沙拉",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 233%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "一食堂 - 炒饭",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 700%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "一食堂 - 番茄炒蛋",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 27%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "一食堂 - 豆浆",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 233%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "三食堂 - 包子",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 26%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "三食堂 - 水果沙拉",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 47%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "三食堂 - 番茄炒蛋",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 36%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "三食堂 - 紫菜蛋花汤",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 29%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "三食堂 - 红烧肉",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 467%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "三食堂 - 麻辣香锅",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 21%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "二食堂 - 可乐",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 233%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "二食堂 - 炒面",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 700%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "二食堂 - 炒饭",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 233%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "二食堂 - 炸鸡排",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 52%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "二食堂 - 红烧肉",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 36%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "二食堂 - 豆浆",
+        "signal": "销量快速上升",
+        "change": "日均销量达到历史的 267%",
+        "advice": "建议适度追加备餐，避免热销菜品在高峰时段断供。"
+      },
+      {
+        "severity": "中",
+        "category": "菜品销量异常",
+        "entity": "二食堂 - 青椒土豆丝",
+        "signal": "销量快速下降",
+        "change": "日均销量仅为历史的 54%",
+        "advice": "建议结合评分与促销活动复盘原因，判断是口味问题还是需求变化。"
+      }
+    ],
+    "alertSummary": {
+      "high": 9,
+      "medium": 26,
+      "low": 0,
+      "total": 35
+    },
+    "strategySimulator": [
+      {
+        "canteen": "一食堂",
+        "sales": 24589.9,
+        "orders": 1679,
+        "students": 483,
+        "rating": 4.018125,
+        "shortage_count": 34,
+        "waste_count": 19,
+        "prep_ratio": 1.14,
+        "risk_level": "高",
+        "queue_time": "6-10 分钟",
+        "level": "中",
+        "queue_minutes": 8.0,
+        "efficiency_score": 94.1,
+        "sales_per_student": 50.91,
+        "orders_per_student": 3.48,
+        "avg_ticket": 14.65,
+        "baseline_cost": 15245.74,
+        "baseline_profit": 9344.16
+      },
+      {
+        "canteen": "二食堂",
+        "sales": 19388.0,
+        "orders": 1339,
+        "students": 463,
+        "rating": 4.0180466039,
+        "shortage_count": 0,
+        "waste_count": 4,
+        "prep_ratio": 1.04,
+        "risk_level": "高",
+        "queue_time": "6-10 分钟",
+        "level": "中",
+        "queue_minutes": 8.0,
+        "efficiency_score": 83.4,
+        "sales_per_student": 41.87,
+        "orders_per_student": 2.89,
+        "avg_ticket": 14.48,
+        "baseline_cost": 12020.56,
+        "baseline_profit": 7367.44
+      },
+      {
+        "canteen": "三食堂",
+        "sales": 14285.3,
+        "orders": 982,
+        "students": 430,
+        "rating": 4.023160027,
+        "shortage_count": 2,
+        "waste_count": 17,
+        "prep_ratio": 1.1,
+        "risk_level": "高",
+        "queue_time": "6-10 分钟",
+        "level": "中",
+        "queue_minutes": 8.0,
+        "efficiency_score": 72.9,
+        "sales_per_student": 33.22,
+        "orders_per_student": 2.28,
+        "avg_ticket": 14.55,
+        "baseline_cost": 8856.89,
+        "baseline_profit": 5428.41
       }
     ]
   },
